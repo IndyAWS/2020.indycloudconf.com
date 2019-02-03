@@ -1,0 +1,5 @@
+[project]
+name = IndyPy 2019
+
+[packages]
+lektor-rst = 0.1
