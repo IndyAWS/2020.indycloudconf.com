@@ -2,7 +2,7 @@ _hidden: yes
 ---
 name: IndyAWS
 ---
-tier: organizer
+tier: community sponsor
 ---
 is_npo: false
 ---
@@ -10,9 +10,11 @@ website: https://www.meetup.com/IndyAWS/
 ---
 description:
 
-The Sixie team can help you with Python web applications and Cloud orchestration. Burn down your backlog and accelerate&nbsp;ahead!
+IndyAWS focuses on the state of the Amazon Web Services ecosystem. We present on AWS Cloud best practices with
+presentations targeted toward increasing your knowledge of the AWS Cloud and its competitors such as Microsoft
+Azure and Google Compute Engine.
 ---
-logo: sfu-logo.png
+logo: indyaws-logo.png
 ---
 logo_dark_bg: indyaws-logo-sm.png
 ---
