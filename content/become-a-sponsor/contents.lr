@@ -6,8 +6,9 @@ body:
 
 ## Become Our Sponsor
 
-IndyPy Conf is for anyone interested in learning more about Python programming as well as meeting other
-Pythonistas. Beginners, advanced developers, and tinkerers are always welcome to join us.
+Indy Cloud Conf is for anyone interested in learning more about cloud computing as well as meeting other
+field experts. Beginners, advanced developers, and tinkerers are always welcome to join us.
+
 
 ### Sponsors
 
@@ -17,9 +18,20 @@ Thank you to all of the sponsors that have already committed! You make all of th
 
 We are offering sponsorship levels for every budget and objective.
 
-Sponsorship Information (PDF) - Coming soon!
+[Sponsorship Information](IndyCloudConf-SponsorshipInfo.pdf) (PDF)
 
-IndyPy is a direct project of the Python Software Foundation (“the PSF”). In addition to tax deductibility
-as a marketing expense for our sponsors, any applicable benefits of the PSF’s 501(c)3 designation from the IRS
-also may apply. Determination letter from the IRS designating the PSF as a charitable organization available
-from the <a href="https://www.python.org/psf/" target="_blank">PSF website</a>.
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="YSJWY55E99GKS">
+<table>
+<tr><td><input type="hidden" name="on0" value="Sponsorship Options"><strong>Sponsorship Options</strong></td></tr><tr><td><select name="os0">
+	<option value="Gold Sponsorship">Gold Sponsorship $1,000.00 USD</option>
+	<option value="Platinum Sponsorship">Platinum Sponsorship $2,500.00 USD</option>
+	<option value="Diamond Sponsorship">Diamond Sponsorship $5,000.00 USD</option>
+	<option value="Title Sponsorship">Title Sponsorship $10,000.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
