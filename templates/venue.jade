@@ -44,7 +44,7 @@ append bottom
     )
 
     script.
-        var venueCoordinates = [39.9660977,-86.0107927];
+        var venueCoordinates = [39.950266, -86.002970,17];
         var map = L.map(
             'map', {
                 scrollWheelZoom: false,
@@ -62,9 +62,9 @@ append bottom
         }).addTo(map);
 
         var venue = L.marker(venueCoordinates).bindPopup(
-            '<h3>Launch Fishers</h3>' +
-            '12175 Visionary Way<br>' +
-            'Fishers, IN 46038<br><br>' +
-            '<a style="color: black" href="https://goo.gl/maps/y6yZ4FCHJC32">View on Google Maps</a>'
+            '<h3>Forum Conference & Events Center</h3>' +
+            '11313 USA Pkwy<br>' +
+            'Fishers, IN 46037<br><br>' +
+            '<a style="color: black" href="https://goo.gl/maps/NDMGXvAhtwm">View on Google Maps</a>'
         ).addTo(map);
         venue.openPopup();
