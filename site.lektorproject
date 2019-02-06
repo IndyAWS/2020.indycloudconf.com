@@ -1,5 +1,5 @@
 [project]
-name = IndyPy 2019
+name = IndyCloudConf
 
 [packages]
 lektor-rst = 0.1
