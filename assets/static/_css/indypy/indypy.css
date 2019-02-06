@@ -9,9 +9,10 @@ body {
     min-height: 100%;
 }
 #main {
-    padding-bottom: 140px; /* height of footer */
+    padding-bottom: 210px; /* height of footer */
 }
 footer {
+    height: 210px;
     position: absolute;
     left: 0;
     bottom: 0;
