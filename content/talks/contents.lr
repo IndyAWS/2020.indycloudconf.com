@@ -8,29 +8,18 @@ body:
 
 ##Speakers
 
-Our speakers have not been determined yet. We are seeking 8 speakers for 30-45 minute talks and 5 lightning talks
-during lunch.
+Our speakers have not been determined yet. We are seeking 24 speakers for 30-45 minute talks. These talks will be broken down into 3 tracks with 8 speakers each.
 
-Submit your papers here: <a href="https://www.papercall.io/indypy-conf" target="_blank">
-https://www.papercall.io/indypy-conf</a>
+Submit your papers here: <a href="https://www.papercall.io/indy-cloud-con-2019
+" target="_blank"> Indy Cloud Conf Talk Submission</a>
 
-The CFP ends Feb. 8th at 12am EST.
+The CFP ends March 1st at 12am EST.
 
 Here are a few suggested categories/topics:
-- For Business:
-  - Taking Excel to the Next Level with Python
-- How to stay relevant for Sysadmins
-  - Python for Sysadmin (shell scripts > Python > services)
-  - Configuration Management/Orchestration using Salt
-  - Scheduled Job and Ad Hoc Task Management with Salt
-  - Python and Lambda for Serverless
-- For Developers:
-  - Continuous Integration
-  - Packaging: Docker
-  - Using the `requests` Library for Accessing APIs
-  - Deployment Automation
+- DevOps
+- Machine Learning
+- AI
+- Big Data
+- Hardware
 - IoT
-  - Data Management in IoT
-  - Machine Learning and Forecasting
-  - IOT Device Management and Deployment
 -YOUR TALK HERE

@@ -1,11 +1,13 @@
-_template: page.jade
+_template:
+
+page.jade
 
 ---
+title:
 
-title: Code of Conduct
+Code of Conduct
 
 ---
-
 body:
 
 **If you are being harassed, notice that someone else is being harassed, or have any other concerns,
@@ -78,5 +80,5 @@ want to. If we remember that, these guidelines will come naturally.
 Questions/comments/reports Please write to ​[info@indyaws.com](mailto:info@indyaws.com)
 
 This page inspired by:
-- DjangoCon Code of Conduct
-- Python Software Foundation Code of Conduct
+-  <a href="https://www.djangoproject.com/conduct/">DjangoCon Code of Conduct</a>
+-  <a href="https://www.python.org/psf/codeofconduct/">Python Software Foundation Code of Conduct</a>
