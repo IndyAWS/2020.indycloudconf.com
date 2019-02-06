@@ -3,7 +3,7 @@ doctype html
 html
 
     head
-        title {% block page_title %}IndyPy Automate Conf ’19 &ndash; Fishers, IN{% endblock %}
+        title {% block page_title %}IndyCloudConf &ndash; Fishers, IN{% endblock %}
         meta(charset="UTF-8")
         meta(http-equiv="content-Language", content="en_US")
         meta(name="google", content="notranslate") {# TEMP #}
@@ -13,7 +13,7 @@ html
         )
         meta(
             name="description",
-            content="Website for IndyPy Automate Conf ’19, a regional Python conference for automation in Fishers, IN USA."
+            content="Website for IndyCloudConf, a conference focused on cloud solutions for DevOps, Machine Learning and IoT in Fishers, IN USA."
         )
         meta(
             name="keywords",
@@ -22,7 +22,7 @@ html
         meta(property="og:url", content="https://indycloudconf.com")
         meta(
             property="og:description",
-            content="Website for IndyPy Automate Conf ’19, a regional Python conference for automation in Fishers, IN USA."
+            content="Website for IndyCloudConf, a conference focused on cloud solutions for DevOps, Machine Learning and IoT in Fishers, IN USA."
         )
         link(
             rel="stylesheet",
@@ -51,7 +51,7 @@ html
                         a.bg-contain.bg-ir(
                             href="/",
                             ff-bg="/static/images/header-logo.png"
-                        ) IndyPy Automate Conf ’19
+                        ) IndyCloudConf
                 {% include "includes/nav.jade" %}
 
             #main
@@ -96,5 +96,5 @@ html
         block bottom
             script.
                 var data = {};
-                indypy.start(data);
+                site.start(data);
 

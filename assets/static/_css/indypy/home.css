@@ -173,13 +173,6 @@ body.home #newsletter .social .fa {
     text-align: center;
     text-decoration: none;
 }
-body.home #newsletter .social .indypy-icon {
-    background-image: url("../images/indypy-bw-400.png");
-    background-size: cover;
-}
-body.home #newsletter .social .indypy-icon .fa {
-    visibility: hidden;
-}
 
 body.home #newsletter .social a {
     display: inline-block;

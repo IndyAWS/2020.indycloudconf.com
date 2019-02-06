@@ -1,6 +1,6 @@
 /*global angular, Modernizr, Instafeed */
 
-var indypy = (function(angular, Modernizr, Instafeed, ffImghelpers) {
+var site = (function(angular, Modernizr, Instafeed, ffImghelpers) {
 
     var SCROLL_DURATION = 500;
     var HEADROOM_OFFSET = 84; /* height of header */
@@ -9,7 +9,7 @@ var indypy = (function(angular, Modernizr, Instafeed, ffImghelpers) {
     var INVIEW_CLASS = "in-view";
     var INVIEWED_CLASS = "in-viewed";
 
-    var module = angular.module('indypy', [
+    var module = angular.module('site', [
         'ngAnimate', 'duScroll', 'duParallax',
         'ff.imghelpers'
     ]);
@@ -111,7 +111,7 @@ var indypy = (function(angular, Modernizr, Instafeed, ffImghelpers) {
         initialize(data);
 
         angular.bootstrap(document.body, [
-            'indypy'
+            'site'
         ]);
 
     }
