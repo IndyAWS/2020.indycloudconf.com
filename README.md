@@ -68,8 +68,6 @@ the dev server. You should clear the built cache and start the service again:
 $ lektor clean -yes && lektor server
 ```
 
-Also let Seb know that he needs to fix this 😇.
-
 
 ## Adding Sponsors
 
@@ -123,7 +121,7 @@ signed_on: 2018-09-28
 
 Our Netlify setup is integrated with Github. That means **all branches** that
 are pushed to Github will be built on Netlify and will be available on a unique
-URL. If you need access to the Netlify account, ask Seb.
+URL. If you need access to the Netlify account, ask Anthony   .
 
 The `master` branch is the Production branch. 
 
