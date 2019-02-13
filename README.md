@@ -1,4 +1,4 @@
-# Website for PyCascades
+# Website for Indy Cloud Conf
 
 🚨🚨🚨🚨 Pushing or merging to master will automatically deploy 🚨🚨🚨🚨
 
@@ -9,9 +9,8 @@ important is that we are using the static site generator
 
 ## Why Lektor?
 
-Lektor is a static site generator written in Python. The reason for choosing it
-(and if you need somebody to blame...it was Seb) was that it provides a much
-easier way to:
+Lektor is a static site generator written in Python. The reason for choosing it was that it 
+provides a much easier way to:
 
 1. Customize the website templates without having to build a full themes.
 2. Create simple and flexible data representations for different parts of the site.
@@ -29,8 +28,8 @@ here.
 Let's get you started with downloading the latest version of the repo:
 
 ```
-$ git clone git@github.com:pycascades/www.pycascades.com.git
-$ cd www.pycascades.com
+$ git clone https://github.com/IndyAWS/2019.indycloudconf.com.git
+$ cd www.indycloudconf.com
 ```
 
 Lektor needs Python (I think we all do 😉). This means you'll have to setup a
@@ -131,4 +130,4 @@ The `master` branch is the Production branch.
 
 ## Questions?
 
-Ask Seb 🤓.
+Ask Anthony 🤓.
