@@ -29,20 +29,30 @@ block main
         h3 {{ day.date|dateformat("EEEE, dd MMMM yyyy") }}
 
         table.schedule-table
+            thead
+                td Time
+                td Grand Forum
+                td Breakout A
+                td Breakout B
             {% for timeslot in day.program %}
             tr
                 td.time.
                     #[span.start {{ timeslot.start }}]
-                    -
-                    #[span.end {{ timeslot.end }}]
-                td.description
-                    {% set talk=site.query("/talks").filter((F.scheduled_date == day.date).and(F.scheduled_time == timeslot.start)).first() %}
-                    {% if timeslot.link %}
-                    a(href="{{ timeslot.link|url }}").
-                        #[span.label {{ timeslot.description }}]
-                    {% else %}
-                    #[span.label {{ timeslot.description }}]
+                {% set talks=site.query("/talks").filter((F.scheduled_date == day.date).and(F.scheduled_time == timeslot.start)) %}
+                {% if talks %}
+                {% for track in ["grand_forum", "breakout_a", "breakout_b"] %}
+                td.track
+                    {% for talk in talks %}
+                    {% if talk.track == track %}
+                    a(href="{{ talk|url }}").
+                        #[span.speaker {{ talk.speaker }}]: #[span.title {{ talk.title }}]
                     {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                {% else %}
+                td.description(colspan=3)
+                    #[span.label {{ timeslot.description }}]
+                {% endif %}
             {% endfor %}
         {% else %}
         h3 Check out our #[a(href="{{ '/talks'|url }}") incredible speakers] while you wait.

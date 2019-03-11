@@ -99,10 +99,28 @@ body.talks.schedule #main h3 {
     text-transform: none;
 }
 body.talks.schedule .schedule-table {
+    font-size: .8em;
     width: 100%;
 }
+body.talks.schedule .schedule-table thead td {
+    border-right: 1px solid #e1e1e1;
+    font-weight: bold;
+    text-align: center;
+}
 body.talks.schedule .schedule-table td.time {
-    width: 10em;
+    border-right: 1px solid #e1e1e1;
+    font-weight: bold;
+    text-align: right;
+    width: 5em;
+}
+body.talks.schedule .schedule-table td.description {
+    background-color: #e5e5e5;
+    border-right: 1px solid #e1e1e1;
+    text-align: center;
+}
+body.talks.schedule .schedule-table td.track {
+    border-right: 1px solid #e1e1e1;
+    text-align: center;
 }
 body.talks.schedule .schedule-table td > a {
     display: block;
