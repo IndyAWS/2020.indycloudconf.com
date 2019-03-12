@@ -1,0 +1,27 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Mark Schroering
+---
+bio:
+I am a Software Architect at LifeOmic where I am applying my 20 years of experience to build an innovative platform that will improve patient healthcare using precision medicine. With the rise of genetic sequencing, healthcare organizations are generating huge amounts of information that they are struggling to manage and apply to patient care. My goal is to empower clinicians and researchers to use this data in new ways to deliver better care and results to patients.
+
+I live in the Indianapolis area with my wife and two daughters. I grew up in Southern Indiana on the family farm, and attended the University of Evansville and later Washington University in St. Louis.
+---
+company:
+---
+twitter: @MarkSchroering
+---
+website: https://about.me/markschroering
+---
+title:  Processing Genetic Information at Scale in AWS
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 2:00pm
+---
+track: breakout_a
+---
+abstract:
+With the rise of genetic sequencing, huge amounts of genetic information is being generated. In this presentation, you will hear how LifeOmic is processing these datasets at scale, and making it available to clinical researchers and practitioners to provide better outcomes for patients.

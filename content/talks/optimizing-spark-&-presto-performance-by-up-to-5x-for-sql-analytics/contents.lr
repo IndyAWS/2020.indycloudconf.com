@@ -1,0 +1,24 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Suraj Bang
+---
+bio:
+Suraj is a Solutions Architect at Qubole where he brings over 13 years of experience in data analytics and engineering to help customers on their big data journey. He has subject matter expertise in building big data applications with Apache Spark and other Open Source technologies such as Apache Zeppelin. Prior to Qubole, Suraj worked as Data Engineering Lead building various big data applications for financial, retail and insurance organizations.
+company:
+---
+twitter:
+---
+website: https://www.qubole.com/blog/author/suraj-bang/
+---
+title:  Optimizing Spark & Presto Performance by up to 5x for SQL Analytics
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 3:15pm
+---
+track: breakout_a
+---
+abstract:
+Suraj will dive into RubiX, a new open-source caching solution built to rapidly improve the performance of concurrent queries on these engines in AWS and Azure.
