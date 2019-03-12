@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Kristopher Baker
+---
+bio:
+I am a software engineering leader and developer with over ten years of experience building and architecting applications and leading software development teams. My experience with AWS started about a year ago, and since then, I’ve led an engineering team focused on migrating an enterprise software product to AWS.
+---
+company:
+---
+twitter: @kristopherbaker
+---
+website:
+---
+title:  Optimizing Legacy Apps for AWS: Cloud Migration and the Amazon Well-Architected Framework
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 9:15am
+---
+track: grand_forum
+---
+abstract:
+We all talk about “moving to the cloud,” but to get it right, we need to go beyond the buzzwords. Join me to learn about Amazon’s Well-Architected Framework and can how it can help to establish guideposts about how to move - and move well - to AWS.
