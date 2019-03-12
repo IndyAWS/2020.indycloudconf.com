@@ -1,0 +1,29 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Angel Rivera
+---
+bio:
+Angel started his career as an US Air Force Space Systems Operations specialist in Cape Canaveral AF Station where he realized his passion for technology and software development. He has extensive experience in the private, public and military sectors and his technical experience includes military/space lift operations, technical writing, software development, SRE/DevOPs engineering. He also has a wealth of experience in defense and federal sectors such as contracting, information systems security and management.
+
+You can usual find him speaking at or organizing local tech meetups and hackathons where he enjoys engaging with developers.
+
+Angel’s passions are positive disruption, learning, teaching, mentoring but most of all inspiring all forms of technologists & building awesome tech communities.
+---
+company:
+---
+twitter: @punkdata
+---
+website: 
+---
+title:  Apps, Stacks, and Frameworks: Avoiding “Shiny Object” Syndrome
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 11:15am
+---
+track: grand_forum
+---
+abstract:
+DevOps teams are in constant search for magical solutions to their technology woes, but not properly vetting solutions can cause unintended effects. These choices lead to bad design/architecture decisions & compound technical debt. In this talk, I’ll share advice to avoid the Shiny Object syndrome.

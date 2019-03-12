@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Justin Langseth
+---
+bio:
+Justin Langseth is the Vice President of Data Sharing Business Development at Snowflake. Before joining Snowflake, Justin co-founded Zoomdata in 2012. Previously, he co-founded and was CTO of Claraview (sold to Teradata in 2008) and then Clarabridge (spun off from Claraview). Prior to Claraview, he was co-founder and CTO of Strategy.com, a former real-time data monetization and insights subsidiary of MicroStrategy. He is the lead inventor on 16 granted technology patents related to data monetization, data personalization, and real-time, unstructured, and big data. He graduated from the Massachusetts Institute of Technology where he received a SB in Management of Information Technology from the MIT Sloan School of Management.
+---
+company: Snowflake
+---
+twitter: @JustinLangseth
+---
+website: https://www.snowflake.com/blog/authors/justin-langseth/
+---
+title:  In the Data Economy, Every Company is a Tech Company: 10 Ways You Can Benefit from Securely Sharing Data in 2019
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 4:15pm
+---
+track: grand_forum
+---
+abstract:
+Every organization shares data internally - and externally with partners, suppliers, vendors, and customers. However, sharing data using traditional methods like e-mail, FTP, or APIs is slow, costly, unsecured, and difficult for users. We’ll show you how to share data securely & unlock its benefits.
