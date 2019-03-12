@@ -121,6 +121,7 @@ body.talks.schedule .schedule-table td.description {
 body.talks.schedule .schedule-table td.track {
     border-right: 1px solid #e1e1e1;
     text-align: center;
+    width: 252px;
 }
 body.talks.schedule .schedule-table td > a {
     display: block;
