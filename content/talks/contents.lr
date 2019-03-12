@@ -4,8 +4,6 @@ _template: talks.jade
 ---
 title: Speakers
 ---
-body:
+description:
 
 ##Speakers
-
-Speakers will be announced soon. Stay tuned for more details.
