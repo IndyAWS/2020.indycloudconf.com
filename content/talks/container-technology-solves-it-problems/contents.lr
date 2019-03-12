@@ -2,27 +2,24 @@ _model: talk
 ---
 _template: talk.jade
 ---
-speaker: James Alexander
+speaker: Mark Hahn
 ---
 bio:
-I am a software developer living in Indianapolis, Indiana. I have 10 years of experience working in .NET, specifically writing C# applications. I started writing Python code in my spare time starting in 2010, when I bought my first Macbook Pro. Since 2017, I have been writing Python Apps professionally, and am part of our Cloud Services Team, specializing in supporting Amazon Web Services infrastructure.
-
-Since 2011, my wife and I have taken Ballroom dancing lessons. The studio we attend has events throughout the year that we participate in, and some of the videos we have taken can be found on my blog and on my YouTube channel.
-
+You need to start using containers today, because it lets you choose all 3: Cost, Quality and Time. Containers run your legacy applications on your legacy infrastructure and allows you to deliver faster, increase quality and lower costs. I’ll tell you how.
 ---
-company:Leaf Software Solutions
+company:
 ---
-twitter:@yanigisawa
+twitter:
 ---
-website: https://jamesralexander.com
+website: https://www.linkedin.com/in/markphahn/
 ---
-title:  Almost Cloud Native Deployment With AWS Fargate
+title:  Container Technology Solves IT Problems
 ---
 scheduled_date: 2019-04-12
 ---
-scheduled_time: 10:00am
+scheduled_time: 1:00pm
 ---
 track: grand_forum
 ---
 abstract:
-I’ll tell our story of automating a .NET Core web app deployment and hosting the app fully on AWS Fargate using a PostgreSQL database backend.
+Executive level consultant with experience throughout the corporate structure: directing products and projects from inception through completion, as well as managing all levels of staff. One of few senior-level consultants who have stayed fully hands-on, Mark cuts through communications issues to bring engineering and executive management to the same page. Mark is an exceptional business analyst who can define processing needs and design effective solutions.
