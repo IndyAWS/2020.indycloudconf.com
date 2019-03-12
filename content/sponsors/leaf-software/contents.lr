@@ -1,21 +1,19 @@
 _hidden: yes
 ---
-name: IndyAWS
+name: Leaf Software Solutions
 ---
-tier: community sponsor
+tier: gold sponsor
 ---
 is_npo: false
 ---
-website: https://www.meetup.com/IndyAWS/
+website: https://www.leafsoftwaresolutions.com/
 ---
 description:
 
-IndyAWS focuses on the state of the Amazon Web Services ecosystem. We present on AWS Cloud best practices with
-presentations targeted toward increasing your knowledge of the AWS Cloud and its competitors such as Microsoft
-Azure and Google Compute Engine.
+Our mission is to deliver our clients the highest quality software solutions - on time and on budget.
 ---
-logo: indyaws-logo.png
+logo: leaf-brand-logo-outlined.png
 ---
-logo_dark_bg: indyaws-logo-sm.png
+logo_dark_bg: leaf-brand-logo-outlined-white.png
 ---
-signed_on: 2019-02-01
+signed_on: 2019-03-01
