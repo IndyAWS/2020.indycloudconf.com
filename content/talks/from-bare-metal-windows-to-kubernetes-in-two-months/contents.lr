@@ -2,27 +2,24 @@ _model: talk
 ---
 _template: talk.jade
 ---
-speaker: James Alexander
+speaker: Paul Steele
 ---
 bio:
-I am a software developer living in Indianapolis, Indiana. I have 10 years of experience working in .NET, specifically writing C# applications. I started writing Python code in my spare time starting in 2010, when I bought my first Macbook Pro. Since 2017, I have been writing Python Apps professionally, and am part of our Cloud Services Team, specializing in supporting Amazon Web Services infrastructure.
-
-Since 2011, my wife and I have taken Ballroom dancing lessons. The studio we attend has events throughout the year that we participate in, and some of the videos we have taken can be found on my blog and on my YouTube channel.
-
+I’m Paul Steele, a software engineer based out of the Indianapolis area. I’m currently interested in automation of all kinds, whether that be continuous integration pipelines, or home automation. At the moment that involves interacting a lot with Kubernetes, Docker, and Jenkins. I strive to find and remove inefficiencies from processes to better provide value to the end user.
 ---
-company:Leaf Software Solutions
+company:
 ---
-twitter:@yanigisawa
+twitter:
 ---
-website: https://jamesralexander.com
+website: https://blog.paul-steele.com
 ---
-title:  Almost Cloud Native Deployment With AWS Fargate
+title:  From Bare-Metal Windows to Kubernetes in Two Months
 ---
 scheduled_date: 2019-04-12
 ---
-scheduled_time: 10:00am
+scheduled_time: 2:00pm
 ---
 track: grand_forum
 ---
 abstract:
-I’ll tell our story of automating a .NET Core web app deployment and hosting the app fully on AWS Fargate using a PostgreSQL database backend.
+It’s easy to take advantage of cutting edge technology in brand new projects. But what about those of us stuck with old legacy code? How can we possibly use something like Azure or Kubernetes? In a short two months, the transition from bare metal to containers in the cloud can become a reality.
