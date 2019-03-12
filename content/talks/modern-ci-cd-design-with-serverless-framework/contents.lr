@@ -2,7 +2,7 @@ _model: talk
 ---
 _template: talk.jade
 ---
-speaker: Kristopher Baker
+speaker: Rob Ribeiro
 ---
 bio:
 As a Team Support Lead Architect for Trek10, Rob Ribeiro has had the opportunity to build a wide range of cutting edge solutions for clients, internal use, and open source. Rob’s claim to fame at Trek10 has been the creation of the AWS Lambda Debugger for Node.js, a tool that allows developers to remotely connect to and control Lambda functions as they run live in the cloud. In addition, Rob has helped advance our dedication to automation by crystalizing our continuous integration and continuous delivery practices.
