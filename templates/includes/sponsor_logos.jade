@@ -2,7 +2,7 @@
 
 #sponsors
     .sponsor-logos
-        {% for tier in ["organizer", "title", "diamond", "platinum", "gold", "community_sponsor"] %}
+        {% for tier in ["organizer", "title", "diamond", "platinum", "gold", "community sponsor"] %}
         {% set tier_sponsors = sponsors.filter(F.tier == tier).filter(F.is_npo == false) %}
         {% if tier_sponsors %}
         div.heading
@@ -22,7 +22,7 @@
         {% endif %}
         {% endfor %}
 
-        {% for tier in ["organizer", "title", "diamond", "platinu", "gold", "community_sponsor"] %}
+        {% for tier in ["organizer", "title", "diamond", "platinu", "gold", "community sponsor"] %}
 
         {% set tier_sponsors = sponsors.filter(F.tier == tier).filter(F.is_npo == true) %}
 

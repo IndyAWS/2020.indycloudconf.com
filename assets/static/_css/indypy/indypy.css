@@ -693,8 +693,8 @@ footer .links li a:hover {
     width: 140px;
     height: 90px;
 }
-#sponsors .sponsor-logos .item.community_sponsor .logo,
-#sponsors .sponsor-logos .item.community_sponsor_npo .logo {
+#sponsors .sponsor-logos .item.community.sponsor .logo,
+#sponsors .sponsor-logos .item.community.sponsor_npo .logo {
     width: 120px;
     height: 70px;
 }
@@ -714,57 +714,6 @@ footer .links li a:hover {
 /*}*/
 
 @media (min-width: 750px) {
-    #sponsors .sponsor-logos .item {
-        width: 480px;
-        margin: 0 20px;
-    }
-
-    #sponsors .sponsor-logos .item > .logo {
-        margin-right: auto;
-        margin-left: auto;
-        margin-bottom: 2rem;
-    }
-    #sponsors .sponsor-logos .item > p {
-        margin: auto;
-        width: 80%;
-    }
-    #sponsors .sponsor-logos .item.diamond {
-        width: 480px;
-    }
-    #sponsors .sponsor-logos .item.diamond .logo {
-        width: 480px;
-        height: 500px;
-    }
-    #sponsors .sponsor-logos .item.diamond_npo {
-        width: 480px;
-    }
-    #sponsors .sponsor-logos .item.diamond_npo .logo {
-        width: 480px;
-        height: 375px;
-    }
-
-    #sponsors .sponsor-logos .item.community .logo {
-        width: 480px;
-        height: 250px;
-    }
-    #sponsors .sponsor-logos .item.community_npo .logo {
-        width: 375px;
-        height: 100px;
-        margin: auto;
-    }
-
-    #sponsors .sponsor-logos .item.organizer .logo,
-    #sponsors .sponsor-logos .item.organizer_npo .logo {
-        width: 280px;
-        height: 80px;
-    }
-
-    #sponsors .sponsor-logos .item.silver .logo,
-    #sponsors .sponsor-logos .item.silver_npo .logo {
-        width: 200px;
-        height: 40px;
-    }
-
     .conduct-violations {
         float: right;
     }
