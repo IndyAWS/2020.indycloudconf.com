@@ -2,25 +2,27 @@ _model: talk
 ---
 _template: talk.jade
 ---
-speaker: Matt Yancey
+speaker: James Alexander
 ---
 bio:
+I am a software developer living in Indianapolis, Indiana. I have 10 years of experience working in .NET, specifically writing C# applications. I started writing Python code in my spare time starting in 2010, when I bought my first Macbook Pro. Since 2017, I have been writing Python Apps professionally, and am part of our Cloud Services Team, specializing in supporting Amazon Web Services infrastructure.
 
-I’m a data scientist, data illustrator, and writer. I enjoy finding undiscovered insights in data. Currently I’m a principle machine learning engineer where I help set best practices for AI project development.
+Since 2011, my wife and I have taken Ballroom dancing lessons. The studio we attend has events throughout the year that we participate in, and some of the videos we have taken can be found on my blog and on my YouTube channel.
 
 ---
-company:
+company:Leaf Software Solutions
 ---
-twitter:
+twitter:@yanigisawa
 ---
-website: http://livingwithdata.com/
+website: https://jamesralexander.com
 ---
-title:  Automating Your Data Clean Up
+title:  _Almost_ Cloud Native Deployment With AWS Fargate
 ---
-scheduled_date: 2019-03-22
+scheduled_date: 2019-04-12
 ---
-scheduled_time: 11:15am
+scheduled_time: 10:00am
+---
+track: grand_forum
 ---
 abstract:
-
-Data scientist’s knows that building a model is only 20% of their time, but cleaning the data is 80%. Yet many of the automation tools focus on the modeling (e.g., DataRobot). I’ll demo some tools and tips for automating the process of data profiling and cleaning.
+I’ll tell our story of automating a .NET Core web app deployment and hosting the app fully on AWS Fargate using a PostgreSQL database backend.
