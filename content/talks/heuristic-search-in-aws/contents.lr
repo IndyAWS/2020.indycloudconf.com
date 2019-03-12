@@ -2,27 +2,24 @@ _model: talk
 ---
 _template: talk.jade
 ---
-speaker: James Alexander
+speaker: Jordan Thayer
 ---
 bio:
-I am a software developer living in Indianapolis, Indiana. I have 10 years of experience working in .NET, specifically writing C# applications. I started writing Python code in my spare time starting in 2010, when I bought my first Macbook Pro. Since 2017, I have been writing Python Apps professionally, and am part of our Cloud Services Team, specializing in supporting Amazon Web Services infrastructure.
-
-Since 2011, my wife and I have taken Ballroom dancing lessons. The studio we attend has events throughout the year that we participate in, and some of the videos we have taken can be found on my blog and on my YouTube channel.
-
+I completed my PhD in artificial intelligence back in 2012, at the University of New Hampshire. While there, I worked on solving difficult (e.g. at least NP-hard) optimization problems by combining machine learning, meta-reasoning, and heuristic search algorithms. Since graduating, I’ve worked as an academic (most recently at Charles-Stark Draper Laboratories), and in the industry (recently Synopsys, currently Software Engineering Professionals). Throughout, the common threads for me have been an interest in building automated systems, finding new applications for artificial intelligence techniques, and sharing what I’ve learned with my colleagues.
 ---
-company:Leaf Software Solutions
+company:
 ---
-twitter:@yanigisawa
+twitter:
 ---
-website: https://jamesralexander.com
+website: https://www.sep.com/sep-blog/author/jtthayer/
 ---
-title:  Almost Cloud Native Deployment With AWS Fargate
+title:  Heuristic Search in AWS
 ---
 scheduled_date: 2019-04-12
 ---
-scheduled_time: 10:00am
+scheduled_time: 3:15pm
 ---
 track: grand_forum
 ---
 abstract:
-I’ll tell our story of automating a .NET Core web app deployment and hosting the app fully on AWS Fargate using a PostgreSQL database backend.
+Heuristic search is an AI technique for general problem solving. While general, it’s costly; many problems are too big to solve optimally in a human lifetime. I’ll show you how to get around that limitation by using tons of machines to solve a single problem.
