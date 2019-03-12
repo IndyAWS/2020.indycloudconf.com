@@ -1,6 +1,6 @@
-_model: page
+_model: talks
 ---
-_template: page.jade
+_template: talks.jade
 ---
 title: Speakers
 ---
