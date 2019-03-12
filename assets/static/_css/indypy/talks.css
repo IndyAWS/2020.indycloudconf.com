@@ -99,7 +99,7 @@ body.talks.schedule #main h3 {
     text-transform: none;
 }
 body.talks.schedule .schedule-table {
-    font-size: .8em;
+    font-size: .6em;
     width: 100%;
 }
 body.talks.schedule .schedule-table thead td {
