@@ -5,7 +5,7 @@ _template: talk.jade
 speaker: Mark Hahn
 ---
 bio:
-You need to start using containers today, because it lets you choose all 3: Cost, Quality and Time. Containers run your legacy applications on your legacy infrastructure and allows you to deliver faster, increase quality and lower costs. I’ll tell you how.
+Executive level consultant with experience throughout the corporate structure: directing products and projects from inception through completion, as well as managing all levels of staff. One of few senior-level consultants who have stayed fully hands-on, Mark cuts through communications issues to bring engineering and executive management to the same page. Mark is an exceptional business analyst who can define processing needs and design effective solutions.
 ---
 company:
 ---
@@ -22,4 +22,4 @@ scheduled_time: 1:00pm
 track: grand_forum
 ---
 abstract:
-Executive level consultant with experience throughout the corporate structure: directing products and projects from inception through completion, as well as managing all levels of staff. One of few senior-level consultants who have stayed fully hands-on, Mark cuts through communications issues to bring engineering and executive management to the same page. Mark is an exceptional business analyst who can define processing needs and design effective solutions.
+You need to start using containers today, because it lets you choose all 3: Cost, Quality and Time. Containers run your legacy applications on your legacy infrastructure and allows you to deliver faster, increase quality and lower costs. I’ll tell you how.
