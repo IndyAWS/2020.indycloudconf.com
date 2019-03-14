@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Matt McQuillan
+---
+bio:
+Matt is a manager for the Engineering Services team at HashiCorp. He has twenty years of experience in web applications, data architecture, and cloud computing.
+---
+company: HashiCorp
+---
+twitter: @automatedmatt
+---
+website: https://github.com/mmcquillan
+---
+title:  Terraform for Humans
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 1:00pm
+---
+track: breakout_a
+---
+abstract:
+Terraform is a fun tool to use on your quest for infrastructure as code. What happens when you want to use it with your team? Let’s find out with Terraform’s new state storage feature on app.terraform.io.
