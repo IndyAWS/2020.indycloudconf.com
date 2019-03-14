@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: David Poindexter
+---
+bio:
+As a Cloud Architect for CleanSlate, David Poindexter is leader in providing cloud based solutions for a variety of customers and industries. David is an AWS Certified Solutions Architect and enjoys sharing all that AWS brings to enable thriving businesses.
+---
+company: CleanSlate
+---
+twitter: @CleanSlate_TG
+---
+website:https://www.cleanslatetg.com/
+---
+title:  Self Service Cloud at the Push of a Button
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 10:00am
+---
+track: breakout_a
+---
+abstract:
+How do you create and modify your infrastructure and applications? Is it easy and predictable? We will show how to combine people, process, and technology to take full advantage of the cloud to drive speed into your business.
