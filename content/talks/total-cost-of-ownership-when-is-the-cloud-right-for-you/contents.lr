@@ -2,30 +2,24 @@ _model: talk
 ---
 _template: talk.jade
 ---
-speaker: Jethro Lloyd
+speaker: Jeanine Brosch & Allen Cummings
 ---
 bio:
-As CEO and President of iLAB, I’ve spent the last twenty years leading our team in setting and raising the global standard for software quality assurance. Under my leadership, iLAB has grown from a small 15-person team of SAP-focused testers to a robust organization of over 800 innovators, strategists, and quality leaders. I pride myself on setting the example for our team when it comes to understanding our clients’ diverse industries today and anticipating what their needs will be tomorrow. My commitment to prioritizing the human element above dollars and cents empowers iLAB to foster healthy long-term relationships with our clients and our staff. It is our mutual respect and care for one another that ultimately allows us to protect our clients’ reputations and ensure they develop and deploy quality software.
-
-This philosophy of servant leadership is a core element of my personality, nurtured and encouraged at a young age by my meeting with Nelson Mandela. As a native South African, this experience inspires me to this day. Faced with an impossibility, I choose instead to see opportunity.
+It feels like everyone is in the Cloud these days, but how to do you know if the Cloud is right for your need? In this talk we will walk through a concrete example walking through the steps we used to analyze the Total Cost of Ownership (TCO) where the Cloud was not the right option.
 ---
-company: iLab
+company: SEP
 ---
-twitter: @iLABQuality
+twitter: @Brosch
 ---
-website: https://www.ilabquality.com
+website:
 ---
-title:  The Role of AI in Quality Assurance for Cloud Applications
+title:  Total Cost of Ownership - When is the Cloud right for you?
 ---
 scheduled_date: 2019-04-12
 ---
-scheduled_time: 4:15pm
+scheduled_time: 2:00pm
 ---
 track: breakout_b
 ---
 abstract:
-Artificial Intelligence has a role to play in just about every cloud software application out there. That extends to development, but the question we face today is a big one: What do we do with this awesome tool to improve the quality of the software we develop? Some forecast that in a few years, AI will replace Quality Assurance professionals as we know them today. In truth, AI’s job in QA is not to replace anything, but to enhance the work we do every day.
-
-In this presentation, Jethro Lloyd (CEO, iLAB) explores the evolving role of QA in an industry increasingly defined by DevOps and Agile development processes for cloud applications. Specifically, Lloyd will address the following: •	The power of AI to give QA professionals increased access to data, and increased coverage •	The question of risk management with cloud software •	The evolving role of QA professionals as testers and as project managers on DevOps teams
-
-Corporate technology may be changing every day, but the risks posed by defective software will never change. Learn how AI, QA, and new development philosophies can be combined to provide better outcomes in software development, and for the businesses that rely on their technology to thrive.
+It feels like everyone is in the Cloud these days, but how to do you know if the Cloud is right for your need? In this talk we will walk through a concrete example walking through the steps we used to analyze the Total Cost of Ownership (TCO) where the Cloud was not the right option.
