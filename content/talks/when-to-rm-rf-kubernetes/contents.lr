@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Paul Steele
+---
+bio:
+I’m Paul Steele, a software engineer based out of the Indianapolis area. I’m currently interested in automation of all kinds, whether that be continuous integration pipelines, or home automation. At the moment that involves interacting a lot with Kubernetes, Docker, and Jenkins. I strive to find and remove inefficiencies from processes to better provide value to the end user.
+---
+company:
+---
+twitter:
+---
+website: https://blog.paul-steele.com
+---
+title:  When to rm -rf Kubernetes
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 2:00pm
+---
+track: breakout_b
+---
+abstract:
+Kubernetes is over recommended in the DevOps world. Like any tool, it solves a specific set of problems, and like any improperly chosen tool it can end up causing more problems than originally existed. You should know why you’re choosing Kubernetes. I can help you with that.

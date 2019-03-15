@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Michael Welling
+---
+bio:
+Hi. I’m Michael Welling. I spend my days building up an amazing Indy startup called PactSafe where I focus on coding and all things AWS. I run the Code and Coffee meetup in Broad Ripple and am currently on a quest to fill all the pages in my passport. Find me at a coffee shop or bar researching k8s, Docker, Node, React and more. Join me! I love people and am passionate about growing the tech scene in Indy.
+---
+company: PactSafe
+---
+twitter:
+---
+website:
+---
+title:  The ABCs of Docker - Always Be Containerizing
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 9:15am
+---
+track: breakout_a
+---
+abstract:
+“Well, it works on my machine.” After the inevitable head scratching, stack-trace fueled rage subsides, you wonder how you ever got here. Sure, you’d heard of Docker, but that was a problem for future you. Well, future you now has 10 other devs. Sounds like it’s time for your local .env to grow up!

@@ -1,0 +1,37 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Garrett Honeycutt
+---
+bio:
+Show how to use approach building a CI/CD pipeline to test and release
+software. Will cover the ideas behind building a CD pipeline, what types
+of testing are used and at what stages. The talk will be vendor neutral
+with regards to how this is achieved along with practical guides to
+commonly used software for each step. Attendees will leave knowing where
+to get started as well as how to augment their current development
+processes.
+---
+company: GH Solutions
+---
+twitter: @learnpppet
+---
+website: http://learnpuppet.com
+---
+title:  How to build a CI/CD pipeline
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 1:00pm
+---
+track: breakout_b
+---
+abstract:
+Show how to use approach building a CI/CD pipeline to test and release
+software. Will cover the ideas behind building a CD pipeline, what types
+of testing are used and at what stages. The talk will be vendor neutral
+with regards to how this is achieved along with practical guides to
+commonly used software for each step. Attendees will leave knowing where
+to get started as well as how to augment their current development
+processes.
