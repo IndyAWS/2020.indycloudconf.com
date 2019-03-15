@@ -5,7 +5,7 @@ _template: talk.jade
 speaker: Jeanine Brosch & Allen Cummings
 ---
 bio:
-It feels like everyone is in the Cloud these days, but how to do you know if the Cloud is right for your need? In this talk we will walk through a concrete example walking through the steps we used to analyze the Total Cost of Ownership (TCO) where the Cloud was not the right option.
+A passion for learning and solving business challenges along with my degree in Electrical & Computer Engineering has contributed to my diverse professional, management and leadership experiences. I believe that no problem is too large for an analytical mindset. I have a unique appetite for problem-solving and a deep inner drive to find solutions to challenges that many are afraid to address. And as today’s businesses continue to evolve with increasingly complex IT interfaces, systems and social networks, engineering background and business savvy can deliver business-critical solutions important for today’s rapidly evolving markets.
 ---
 company: SEP
 ---
@@ -22,4 +22,4 @@ scheduled_time: 2:00pm
 track: breakout_b
 ---
 abstract:
-A passion for learning and solving business challenges along with my degree in Electrical & Computer Engineering has contributed to my diverse professional, management and leadership experiences. I believe that no problem is too large for an analytical mindset. I have a unique appetite for problem-solving and a deep inner drive to find solutions to challenges that many are afraid to address. And as today’s businesses continue to evolve with increasingly complex IT interfaces, systems and social networks, engineering background and business savvy can deliver business-critical solutions important for today’s rapidly evolving markets.
+It feels like everyone is in the Cloud these days, but how to do you know if the Cloud is right for your need? In this talk we will walk through a concrete example walking through the steps we used to analyze the Total Cost of Ownership (TCO) where the Cloud was not the right option.
