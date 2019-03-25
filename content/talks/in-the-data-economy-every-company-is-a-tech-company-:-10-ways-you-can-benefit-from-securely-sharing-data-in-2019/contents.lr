@@ -2,16 +2,16 @@ _model: talk
 ---
 _template: talk.jade
 ---
-speaker: Justin Langseth
+speaker: Jordan Ude
 ---
 bio:
-Justin Langseth is the Vice President of Data Sharing Business Development at Snowflake. Before joining Snowflake, Justin co-founded Zoomdata in 2012. Previously, he co-founded and was CTO of Claraview (sold to Teradata in 2008) and then Clarabridge (spun off from Claraview). Prior to Claraview, he was co-founder and CTO of Strategy.com, a former real-time data monetization and insights subsidiary of MicroStrategy. He is the lead inventor on 16 granted technology patents related to data monetization, data personalization, and real-time, unstructured, and big data. He graduated from the Massachusetts Institute of Technology where he received a SB in Management of Information Technology from the MIT Sloan School of Management.
+Jordan Ude is a Senior Sales Engineer at Snowflake.
 ---
 company: Snowflake
 ---
-twitter: @JustinLangseth
+twitter:
 ---
-website: https://www.snowflake.com/blog/authors/justin-langseth/
+website: https://www.snowflake.com
 ---
 title:  In the Data Economy, Every Company is a Tech Company: 10 Ways You Can Benefit from Securely Sharing Data in 2019
 ---
