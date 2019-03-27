@@ -1,0 +1,24 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Calvin Hendryx-Parker
+---
+bio:
+Calvin Hendryx-Parker is the co-founder and CTO of Six Feet Up, a Python web application development company established in 1999. At Six Feet Up, Calvin establishes the company's technical vision and leads all aspects of the company's technology development. He provide the strategic vision for enhancing the offerings of the company and infrastructure, and works with the team to set company priorities and implement processes that will help improve product and service development. Calvin is also the co-founder of the Python user group IndyPy, the largest tech meetup in Indiana with 1,600 members.
+---
+company:
+---
+twitter: @calvinhp
+---
+website: https://sixfeetup.com
+---
+title:  Is Open Source Secure Enough?
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 4:15pm
+---
+track: grand_forum
+---
+abstract:
