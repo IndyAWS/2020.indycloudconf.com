@@ -21,7 +21,7 @@ scheduled_date: 2019-04-12
 ---
 scheduled_time: 1:00pm
 ---
-track: breakout_b
+track: breakout_a
 ---
 abstract:
 Artificial Intelligence has a role to play in just about every cloud software application out there. That extends to development, but the question we face today is a big one: What do we do with this awesome tool to improve the quality of the software we develop? Some forecast that in a few years, AI will replace Quality Assurance professionals as we know them today. In truth, AI’s job in QA is not to replace anything, but to enhance the work we do every day.
