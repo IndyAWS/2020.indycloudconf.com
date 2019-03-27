@@ -21,9 +21,9 @@ title:  Modern CI/CD Design with Serverless Framework
 ---
 scheduled_date: 2019-04-12
 ---
-scheduled_time: 4:15pm
+scheduled_time: 3:15pm
 ---
-track: breakout_a
+track: breakout_b
 ---
 abstract:
 What is CI/CD? Why is it important? What makes for a good CI/CD provider? How can I write good configs that let me be lazy when my boss wants a new environment? How can I drive environmental changes into my Serverless apps? Get the answers as we deploy a Serverless app via multiple CI/CD providers.
