@@ -1,0 +1,24 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Matt Carlton
+---
+bio:
+Matt Carlton is a SysAdmin at Six Feet Up, a Python web application development company established in 1999.
+---
+company: Six Feet Up, Inc.
+---
+twitter:
+---
+website: https://sixfeetup.com
+---
+title: Deploying your services to AWS without leaving the comfort of your desktop
+---
+scheduled_date: 2019-04-12
+---
+scheduled_time: 9:15am
+---
+track: breakout_b
+---
+abstract: Cloud deployments can be daunting. There are a lot of moving parts that all have to come together correctly to get your services online. Learn how to use Terraform and Saltstack to go from an empty environment to a live website in minutes.
