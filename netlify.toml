@@ -3,6 +3,11 @@
   to = "/code-of-conduct"
   status = 301
 [[redirects]]
+  from = "https://indycloudconf.com/*"
+  to = "https://2019.indycloudconf.com/:splat"
+  status = 301
+  force = true
+[[redirects]]
   from = "/cfp"
   to = "https://www.papercall.io/indycloudconf2020"
   status = 301
