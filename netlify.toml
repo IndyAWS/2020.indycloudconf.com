@@ -2,3 +2,7 @@
   from = "/conduct"
   to = "/code-of-conduct"
   status = 301
+[[redirects]]
+  from = "/cfp"
+  to = "https://www.papercall.io/indycloudconf2020"
+  status = 301
