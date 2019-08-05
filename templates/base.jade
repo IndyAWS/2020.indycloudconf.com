@@ -3,6 +3,12 @@ doctype html
 html
 
     head
+        script(src="https://www.googletagmanager.com/gtag/js?id=UA-129362232-4")
+        script.
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-129362232-4');
         title {% block page_title %}IndyCloudConf &ndash; Fishers, IN{% endblock %}
         meta(charset="UTF-8")
         meta(http-equiv="content-Language", content="en_US")
