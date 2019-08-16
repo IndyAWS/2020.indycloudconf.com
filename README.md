@@ -5,11 +5,11 @@
 Just a few notes on how to work with this setup for the website. The most
 important is that we are using the static site generator
 [Lektor](https://www.getlektor.com/) and are hosting the content on
-[Netlify](https://app.netlify.com/sites/2019-pycascades).
+[Netlify](https://app.netlify.com/sites/2020-indycloudconf).
 
 ## Why Lektor?
 
-Lektor is a static site generator written in Python. The reason for choosing it was that it 
+Lektor is a static site generator written in Python. The reason for choosing it was that it
 provides a much easier way to:
 
 1. Customize the website templates without having to build a full themes.
@@ -28,7 +28,7 @@ here.
 Let's get you started with downloading the latest version of the repo:
 
 ```
-$ git clone https://github.com/IndyAWS/2019.indycloudconf.com.git
+$ git clone https://github.com/IndyAWS/2020.indycloudconf.com.git
 $ cd www.indycloudconf.com
 ```
 
@@ -85,7 +85,7 @@ Now create a `content.lr` file inside this new directory using this template:
 ```
 _hidden: yes
 ---
-name: 
+name:
 ---
 tier:
 ---
@@ -123,7 +123,7 @@ Our Netlify setup is integrated with Github. That means **all branches** that
 are pushed to Github will be built on Netlify and will be available on a unique
 URL. If you need access to the Netlify account, ask Anthony   .
 
-The `master` branch is the Production branch. 
+The `master` branch is the Production branch.
 
 
 ## Questions?
