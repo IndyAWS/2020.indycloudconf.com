@@ -440,6 +440,7 @@ footer {
     background: #161616;
     color: #FFF;
     font-size: 1.3rem;
+    padding-bottom: 1em;
 }
 footer .container {
     padding-top: 10px;
