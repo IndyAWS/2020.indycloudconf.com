@@ -220,6 +220,7 @@ header .logo a {
     height: 100%;
     color: inherit !important;
     text-decoration: none;
+    background-position: 0 0;
 }
 header nav {
     display: none;
