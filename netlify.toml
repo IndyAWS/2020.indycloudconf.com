@@ -4,7 +4,7 @@
   status = 301
 [[redirects]]
   from = "https://indycloudconf.com/*"
-  to = "https://2019.indycloudconf.com/:splat"
+  to = "https://2020.indycloudconf.com/:splat"
   status = 301
   force = true
 [[redirects]]
