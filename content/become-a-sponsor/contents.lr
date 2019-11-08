@@ -18,30 +18,30 @@ Thank you to all of the sponsors that have already committed! You make all of th
 
 We are offering sponsorship levels for every budget and objective.
 
-[Sponsorship Information - (PDF)] - Coming soon!
-
-<!--
-
 [Sponsorship Information](IndyCloudConf-SponsorshipInfo.pdf) (PDF)
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="YSJWY55E99GKS">
+<input type="hidden" name="hosted_button_id" value="PRUDA6LARCAWE">
 <table>
-<tr><td><input type="hidden" name="on0" value="Sponsorship Options"><strong>Purchase Your Sponsorship Today</strong></td></tr><tr><td><select name="os0">
-	<option value="Gold Sponsorship">Gold Sponsorship $1,000.00 USD</option>
+<tr><td><input type="hidden" name="on0" value="Sponsorship Opportunities">Sponsorship Opportunities</td></tr><tr><td><select name="os0">
+	<option value="Ruby Sponsorship">Ruby Sponsorship $1,250.00 USD</option>
 	<option value="Platinum Sponsorship">Platinum Sponsorship $2,500.00 USD</option>
 	<option value="Diamond Sponsorship">Diamond Sponsorship $5,000.00 USD</option>
 	<option value="Title Sponsorship">Title Sponsorship $10,000.00 USD</option>
+	<option value="Lanyards Sponsorship">Lanyards Sponsorship $500.00 USD</option>
+	<option value="Table Signs Sponsorship">Table Signs Sponsorship $500.00 USD</option>
+	<option value="Coffee Sponsorship">Coffee Sponsorship $500.00 USD</option>
+	<option value="Lunch Sponsorship">Lunch Sponsorship $500.00 USD</option>
+	<option value="Breakout Rooms Sponsorship">Breakout Rooms Sponsorship $1,000.00 USD</option>
+	<option value="Grand Room Sponsorship">Grand Room Sponsorship $2,000.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
 ### Custom Sponsorship Options
 
 Are you looking to sponsor a specific item or benefit not listed here? Contact us at [info@indyAWS.com](mailto:info@indyaws.com) to discuss custom sponsorship opportunities.
-
--->
