@@ -22,7 +22,7 @@ We are offering sponsorship levels for every budget and objective.
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="PRUDA6LARCAWE">
+<input type="hidden" name="hosted_button_id" value="ZRLZGN64Q5KCU">
 <table>
 <tr><td><input type="hidden" name="on0" value="Sponsorship Opportunities">Sponsorship Opportunities</td></tr><tr><td><select name="os0">
 	<option value="Ruby Sponsorship">Ruby Sponsorship $1,250.00 USD</option>
