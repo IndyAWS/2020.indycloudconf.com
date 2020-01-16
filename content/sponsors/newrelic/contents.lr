@@ -1,0 +1,19 @@
+_hidden: yes
+---
+name: New Relic
+---
+tier: diamond
+---
+is_npo: false
+---
+website: https://newrelic.com/
+---
+description:
+
+
+---
+logo: NewRelic-logo-bug.png
+---
+logo_dark_bg: NR_logo_Horizontal_Rev.png
+---
+signed_on: 2019-01-08
