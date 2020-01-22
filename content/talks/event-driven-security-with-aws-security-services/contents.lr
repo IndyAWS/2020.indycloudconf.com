@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: David Poindexter
+---
+bio:
+As a Cloud Architect for CleanSlate, David Poindexter is a leader in providing cloud-based solutions for a variety of customers and industries. David is an AWS Certified Solutions Architect and AWS Certified Security Specialist and enjoys sharing all that AWS brings to enable thriving, secure businesses.
+---
+company: CleanSlate
+---
+twitter: @CleanSlate_TG
+---
+website: https://www.cleanslatetg.com/
+---
+title:  Event-driven Security with AWS Security Services
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 9:45am
+---
+track: breakout_b
+---
+abstract:
+Centralized cloud security and compliance combined with democratized incident response can ensure that the right information gets to the right teams, at the right time, so security events can be managed swiftly and appropriately. In this presentation, we show how a flexible combination of security controls, automation, API integrations, IoT, and notification services can enhance your Security Operations team’s effectiveness and allow developers to also embrace and support response efforts.

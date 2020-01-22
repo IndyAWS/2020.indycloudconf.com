@@ -1,0 +1,27 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Chris Bailey
+---
+bio:
+Chris Bailey believes that everything should be data driven and won’t stop relating his hobbies to observability, whether it’s driving race cars, working on his pilot’s license, or convincing his board gaming group to track plays and scores. He currently works as head of Reliability Engineering at Terazo where he works to create a culture of finding answers to questions that haven’t been asked yet. He also helps organize DevOpsDays Raleigh and the Triangle DevOps Meetup group, with over 3300 members. He lives in Durham, North Carolina with his dog, Ferdinand - who also helped write this bio.
+---
+company: Terazo
+---
+twitter: @TriangleDevOps
+---
+website: https://www.meetup.com/triangledevops
+---
+title:  Providing Business Value with Observability
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 9:45am
+---
+track: breakout_b
+---
+abstract:
+In this talk, we will go over at a very basic level what observability is and what it sets out to solve.
+
+We will then dive into a fictional logistics company building out a microservices architecture and walk through instrumenting it at each level - starting at the infrastructure level and working our way up, and at each step, reviewing the questions that are answered at that level but the questions that still remain unanswered (the unknown unknowns). Finally, we will instrument the highest layer - the business/product layer - and use statsd to collect business specific metrics that are relevant to the operation and success of the company and how we can use that full stack of data for capacity planning, forecasting, and to get a better insight into the customer experience - thus providing business value.
