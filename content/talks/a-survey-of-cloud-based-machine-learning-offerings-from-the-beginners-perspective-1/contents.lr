@@ -1,0 +1,36 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Jordan Thayer
+---
+bio:
+I received my doctorate in Artificial Intelligence in 2012 from the University of New Hampshire. The focus of my dissertation was on finding ways to reduce the time taken by heuristic search algorithms by sacrificing limited amounts of solution quality specified by the user of the algorithm. Since finishing my PhD, I’ve been working on a wide variety of problems, including static analysis and computational geometry. In all of those endeavors, I’ve found techniques such as heuristic search and machine learning to be extremely helpful when applied judiciously.
+---
+company: SEP
+---
+twitter: @drbass
+---
+website: https://www.sep.com/sep-blog/author/jordan-thayer/
+---
+title:  A Survey of Cloud-based Machine Learning Offerings from the Beginner's Perspective
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 10:30am
+---
+track: grand_forum
+---
+abstract:
+If you’re convinced that machine learning is worth learning about, but don’t know where to start, this talk is for you. If you’ve never seen machine learning applied to solving a concrete problem but would like to, this talk is for you.
+
+We’ll explore cloud-based machine learning offerings from the three largest providers: Amazon (SageMaker), Microsoft (Azure ML), and Google (AI Platform). We’ll investigate these offerings with open datasets for digit recognition and breast cancer identification.
+
+Our evaluation will focus on the following:
+
+- Ease of loading data
+- Quality of tools for data preparation and cleaning
+- Availability of machine learning algorithms
+- Ease of comparing machine learning algorithms on a task
+
+This talk will leave you with a better sense of the trade-offs between the cloud-based machine learning offerings. This will help you select the right offering to solve your problems with machine learning.

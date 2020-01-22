@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Maria Patterson
+---
+bio:
+Maria Patterson is a Machine Learning Engineer on the data science team at High Alpha venture studio, where she architects cloud-based analytics pipelines for Software-as-a-Service startup companies.  Since earning a PhD in astronomy, Maria has led the development of large-scale data platforms and real-time streaming analytics for NASA, NOAA, the Zwicky Transient Facility, and the Large Synoptic Survey Telescope. She aims to integrate DevOps into data science to enable robust, reproducible, and scalable research and analysis.  Maria is also passionate about effective science communication and equity in STEM fields. You can find her out for a long run, at a baseball game, or in the 500 Women Scientists’ “Request a Woman Scientist” database.
+---
+company: High Alpha
+---
+twitter: @OpenSciPinay
+---
+website: https://www.linkedin.com/in/mariatpatterson/
+---
+title:  Cloud architecture for the data scientist: Deploying machine learning pipelines to production
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 11:15am
+---
+track: grand_forum
+---
+abstract:
+Machine learning projects frequently fail before they are implemented because of the difficulty in moving pipelines from a data scientist’s laptop into production. A data scientist’s workflow is likely very different from the engineers’ systems for deploying software into production.  Data scientists frequently use different programming languages, very specific packages, and work with data in self-contained local environments. Software engineers and architects on the other hand are tasked with designing complex, cloud-based, full-stack systems in production, likely with multiple data stores and a front-end, user-facing interface.  The disconnect in the typical environments used by data scientists vs software engineers can create difficulty in pushing machine learning pipelines over the finish line and into production. This talk will go over some tips and tricks to help resolve this disconnect on both scientists’ and engineers’ sides and will also describe a use case about the successful deployment of a system for analyzing real-time astronomical telescope data, including a design that can be used in AWS, GCP, or with entirely open source tools.
