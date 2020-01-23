@@ -1,0 +1,24 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Kim Nguyen
+---
+bio:
+Project Strategy Director at Six Feet Up, Inc. (https://sixfeetup.com).
+---
+company: Six Feet Up, Inc.
+---
+twitter: @tkimnguyen
+---
+website: https://sixfeetup.com
+---
+title:
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 3:00pm
+---
+track: grand_forum
+---
+abstract:

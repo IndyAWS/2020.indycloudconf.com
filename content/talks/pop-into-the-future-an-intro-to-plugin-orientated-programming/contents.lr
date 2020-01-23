@@ -1,0 +1,41 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Tyler Johnson
+---
+bio:
+Tyler is a Software Engineer on the open source team at SaltStack, an orchestration, automation, and security company.  He is currently focused on cloud integrations and innovations such as POP.
+
+Tyler has been on the OpenWest Core team for 4 years and enjoys participating in open source communities.
+
+On the weekends you can catch him playing League of Legends or watching The Mandalorian.   View his projects at github.com/Akm0d
+---
+company: SaltStack
+---
+twitter:
+---
+website: github.com/Akm0d
+---
+title:  POP into the Future: An intro to Plugin Oriented Programming
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 3:00pm
+---
+track: breakout_a
+---
+abstract:
+Plugin Oriented Programing, also known as POP, is a new programming paradigm developed at SaltStack. Like any programming paradigm learning POP means thinking about programming differently. Using POP to create a plugin oriented project is easy. This introduction will help you learn how pop works and how to get started with a POP project.
+
+In this talk we'll look at ways that POP makes breaking strides in:
+
+- Memory Management
+
+- Dealing with Complexity
+
+- Subs and Patterns
+
+- App Merging
+
+We'll look at POP in action with a demonstration on it's usage.
