@@ -1,0 +1,37 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Simon Yost
+---
+bio:
+My mission unifying & aligning teams around the power of technology so that tribes can thrive. This presentation would serve your attendees to that end.
+
+Here is a recent example of my speaking from a DevOps Days event: https://youtu.be/cfmdqlqkxfc
+
+I have spent 15 years building organizations (startups, nonprofits, and enterprise) in the Midwest region by spearheading digital strategy and content delivery. That includes countless hours coaching professionals and students on building applications, creating digital experiences, and installing systems in their businesses. I currently serve as a technology consultant at Slalom St. Louis.
+
+Outside of work, I am a husband, father, amateur cyclist, and self-professed coffee aficionado. My passions include foster/adopt parenting and Nebraska football.
+
+I write at UIE.dev.
+---
+company: Slalom St. Louis
+---
+twitter: @simonyost
+---
+website: http://simonyost.com/
+---
+title:  Adding Design to DevOps
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 10:30am
+---
+track: breakout_a
+---
+abstract:
+After the Kubernetes cluster is stood up, Docker containers are deployed, Jenkins jobs (or similar) are pushing code to production, your cloud app is humming along. Then, it happens: a new feature request.
+
+Designers have long handed-off instructions for new features with only an image or two—static pictures that represent how the coded version should appear. That process is failing us. We don’t need to fire everyone and start over, and we need some new systems and structures to help our teams interact differently.
+
+In this session, we will explore how to integrate developers, devOps, and design workflows and what is holding us back from cross-functional, high performing greatness.
