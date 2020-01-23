@@ -21,9 +21,9 @@ title:  CI/CD Agility and Controlling Pipeline Sprawl Outline
 ---
 scheduled_date: 2020-03-26
 ---
-scheduled_time: 1:30pm
+scheduled_time: 11:15am
 ---
-track: grand_forum
+track: breakout_b
 ---
 abstract:
 The adoption of CI/CD has automated the process of how DevOps teams build, test, and deliver software at rapid speeds and with high confidence. Although CI/CD platforms offer many benefits, in the attempt to make sophisticated pipelines, many teams run into the issue of “Pipeline Sprawl” - where configurations grow in complexity and volume forcing them to  become unmanageable and difficult to scale. Pipeline sprawl also makes it difficult for DevOps teams to identify and reuse common execution patterns which diminishes their ability to efficiently ship new code.
