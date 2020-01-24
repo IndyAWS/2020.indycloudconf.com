@@ -21,9 +21,9 @@ title:  POP into the Future: An intro to Plugin Oriented Programming
 ---
 scheduled_date: 2020-03-26
 ---
-scheduled_time: 3:00pm
+scheduled_time: 1:30pm
 ---
-track: breakout_a
+track: breakout_b
 ---
 abstract:
 Plugin Oriented Programing, also known as POP, is a new programming paradigm developed at SaltStack. Like any programming paradigm learning POP means thinking about programming differently. Using POP to create a plugin oriented project is easy. This introduction will help you learn how pop works and how to get started with a POP project.

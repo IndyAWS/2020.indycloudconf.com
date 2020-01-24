@@ -19,7 +19,7 @@ scheduled_date: 2020-03-26
 ---
 scheduled_time: 2:15pm
 ---
-track: grand_forum
+track: breakout_a
 ---
 abstract:
 This talk covers an in-depth overview of the JSON Web Tokens. The entry point for the presentation is answering the question “Why do we need encryption?”, here I am going to cover cryptography basics and smoothly go to the public/private key cryptography. Later on I would like to speak about difference between encrypting data and signing data - which will lead to the JSON Web Tokens section. According to JWT, I will describe the token structure and for what purpose each claim should be used. Moreover I am going to cover what is JWKS (JSON Web Key Set). In the presentation I want to include the use-cases for JWTs as well inside the micro-services architecture, as in the giving access to some data to third-party applications.
