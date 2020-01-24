@@ -16,6 +16,7 @@ block main
 
         h1 {{ this.title }}
         .byline {{ this.speaker }}
+        .company {{ this.company.html }}
         .abstract
             p {{ this.abstract.html }}
 
@@ -46,8 +47,6 @@ block main
         h2 About {{ this.speaker }}
         .biography
             {{ this.bio.html }}
-        .company
-            {{ this.company.html }}
         .contact
             {% if this.website %}
             .url
