@@ -46,6 +46,8 @@ block main
         h2 About {{ this.speaker }}
         .biography
             {{ this.bio.html }}
+        .company
+            {{ this.company.html }}
         .contact
             {% if this.website %}
             .url
