@@ -15,7 +15,8 @@ block main
     .container
 
         h1 {{ this.title }}
-        .byline {{ this.speaker }} from .company {{ this.company.html }}
+        .byline {{ this.speaker }}
+        Company: .company {{ this.company.html }}
         .abstract
             p {{ this.abstract.html }}
 
