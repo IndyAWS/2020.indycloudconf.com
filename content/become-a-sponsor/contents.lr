@@ -27,7 +27,6 @@ We are offering sponsorship levels for every budget and objective.
 <tr><td><input type="hidden" name="on0" value="Sponsorship Opportunities">Sponsorship Opportunities</td></tr><tr><td><select name="os0">
 	<option value="Ruby Sponsorship">Ruby Sponsorship $1,250.00 USD</option>
 	<option value="Platinum Sponsorship">Platinum Sponsorship $2,500.00 USD</option>
-	<option value="Diamond Sponsorship">Diamond Sponsorship $5,000.00 USD</option>
 	<option value="Title Sponsorship">Title Sponsorship $10,000.00 USD</option>
 	<option value="Lanyards Sponsorship">Lanyards Sponsorship $500.00 USD</option>
 	<option value="Table Signs Sponsorship">Table Signs Sponsorship $500.00 USD</option>
