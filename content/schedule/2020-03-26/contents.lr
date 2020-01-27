@@ -8,7 +8,7 @@ date: 2020-03-26
 ---
 program:
 
-start, end, type, description, link
+start, end, description, link
 8:30am, 9:00am, Registration and light breakfast,
 9:00am, 9:15am, Opening Remarks - Calvin Hendryx-Parker - CTO of Six Feet Up,
 9:15am, 10:15am, Keynote by Larry Garfield: "Software Management Lessons from the 1960s", https://2020.indycloudconf.com/talks/software-management-lessons-from-the-1960s/
