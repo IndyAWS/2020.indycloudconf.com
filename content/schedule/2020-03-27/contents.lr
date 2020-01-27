@@ -8,16 +8,16 @@ date: 2020-03-27
 ---
 program:
 
-start, end, description, link
-8:30am, 9:00am, Registration and light breakfast,
-9:00am, 9:15am, Opening Remarks - Calvin Hendryx-Parker, CTO, Six Feet Up
-9:15am, 9:45am, "Keynote by John Qualls - Grand Forum",
-9:45am, 10:30am,
-10:30am, 11:15am,
-11:15am, 12:00pm,
-12:00pm, 1:30pm, Lunch and networking,
-1:30pm, 2:15pm,
-2:15pm, 3:00pm,
-3:00pm, 3:45pm,
-3:45pm, 4:30pm,
-4:30pm, 4:45pm, Closure,
+start, end, type, description, link
+8:30am, 9:00am, nontalk, Registration and light breakfast,
+9:00am, 9:15am, nontalk, Opening Remarks - Calvin Hendryx-Parker, CTO, Six Feet Up
+9:15am, 9:45am, talk, "Keynote by John Qualls - Grand Forum",
+9:45am, 10:30am, talk, "Keynote by Dave Mangot - Grand Forum"
+10:30am, 11:15am, talk,
+11:15am, 12:00pm, talk,
+12:00pm, 1:30pm, nontalk, Lunch and networking,
+1:30pm, 2:15pm, talk,
+2:15pm, 3:00pm, talk,
+3:00pm, 3:45pm, talk,
+3:45pm, 4:30pm, talk,
+4:30pm, 4:45pm, nontalk, Closure,
