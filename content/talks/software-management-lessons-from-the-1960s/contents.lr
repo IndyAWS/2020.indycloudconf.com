@@ -1,0 +1,31 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Larry Garfield
+---
+bio:
+Larry Garfield is an aspiring blacksmith who moonlights as Director of Developer Experience for Platform.sh. When not trying to hand-forge his own medieval armory from scratch he tries to teach developers and development managers the skills of yesteryear that the industry has forgotten. He is also a member of the PHP-FIG Core Committee.
+---
+company: Platform.sh
+---
+twitter: @Crell
+---
+website: http://www.garfieldtech.com/
+---
+title:  Software Management Lessons from the 1960s
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 
+---
+track:
+---
+abstract:
+“The Mythical Man-month” is one of the seminal books in the field of software project management. It was written in 1975, based on experience from the 1960s. Is it even still relevant?
+
+Turns out, it is. Technology may have changed dramatically but people have not. Managing software projects is about managing people, not bits, and creative people engaged in intellectual endeavors are notoriously hard to predict and manage. (Just ask my project manager.)
+
+Fortunately, many of the lessons-learned Brooks’ presents are still relevant today. Some are directly applicable (“adding people to a late project makes it later”) while others are valid with a little interpretation. Still others fly in the face of conventional wisdom. What can we learn from that?
+
+This session will present a modern overview of the ideas presented by Brooks and a look at what we can still learn from them even today.
