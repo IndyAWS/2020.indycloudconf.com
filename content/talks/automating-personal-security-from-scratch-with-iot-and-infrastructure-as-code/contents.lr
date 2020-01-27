@@ -1,0 +1,29 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Nick Anderegg
+---
+bio:
+Nick is a Developer Relations Engineer at Platform.sh. His passion is building tools and products that automate and simplify complex workflows, and he is obsessed with making developers’ lives easier.
+---
+company: Platform.sh
+---
+twitter: @NickAnderegg
+---
+website:
+---
+title: Oops, I committed my private key: Automating personal security from scratch with IoT and Infrastructure as Code
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 10:30am
+---
+track: breakout_b
+---
+abstract:
+After accidentally committing a private SSH key to a public GitHub repository—for the second time in three years—I wanted a personal security solution that kept my secrets secure without creating a large user burden for myself day-to-day. This is the story of how I went from security idiot to Secure Enough™ using nothing but open source, declarative DevOps tools, inexpensive consumer hardware, and the Always Free tier on Google Cloud.
+
+With a little bit of manual bootstrapping, it’s possible to fully automate a robust personal encryption- and password-management infrastructure. This setup helps achieve three goals: It prevents accidental data leaks, it creates awareness of breaches, and it mitigates the effects of any leaks or breaches that do occur.
+
+Automating the hard parts of secrets management is the key to lowering the user burden.

@@ -1,0 +1,27 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Steve Loudin
+---
+bio:
+Steve Lodin is the Senior Director of Cyber Security Operations in Corporate Security at Sallie Mae. Mr. Lodin is focused on managing perimeter security, endpoint protection, application security, vulnerability management, and threat intelligence to reduce risk and ensure compliance. As an accomplished information security professional, Mr. Lodin has been published in numerous information security publications. He has been a speaker at many security conferences. He is a senior member of ISSA and a board member of the Ohio River Valley Cloud Security Alliance (CSA) chapter. Mr. Lodin has maintained his CISSP certification since 1998. He has a Master’s Degree in Computer Science from Purdue University where he was a member of the COAST/CERIAS program.
+---
+company: Salle Mae
+---
+twitter: @stevelodin
+---
+website: https://linkedin.com/in/SteveLodin/
+---
+title: Security Lessons Learned Moving a Bank 100% in the Cloud
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 3:45pm
+---
+track: breakout_a
+---
+abstract:
+This session provides observations regarding the process of moving the datacenter assets of a Top100 bank fully into the cloud. The Golden Rules providing security and assurance will be described. The gotchas, surprises, lessons learned, and resulting strategic changes are presented.
+
+In our cloud migration process in 2018, we moved everything to AWS in a Lift & Shift process. We had a robust security stack in our managed datacenter environment and learned many lessons about pursuing native options. In 2019, we have started the app moderization phase to move from IaaS-based workloads to PaaS, serverless, and containers.
