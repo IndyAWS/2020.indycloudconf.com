@@ -22,3 +22,5 @@ scheduled_time: 11:15am
 track: breakout_b
 ---
 abstract:
+In this talk, Calvin will explore how AWS IoT Greengrass greatly facilitates the collection of data at the edge and the subsequent push of aggregate or specific datapoints to AWS. He will also go over how Greengrass helps organizations with large fleets of IoT devices keep the firmware, OS and software up-to-date. Finally he will show how to use AWS’ tool to monitor all of those devices not already living in the Cloud.
+AWS IoT Greengrass 'brings local compute, messaging, data caching, sync, and ML inference capabilities to edge devices'.
