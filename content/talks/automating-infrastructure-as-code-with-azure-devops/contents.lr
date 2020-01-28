@@ -1,0 +1,33 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Erick Moore
+---
+bio:
+I have worked end-to-end in technology with a primary focus on operations, infrastructure, and architecture. I spent 15 years in internal IT in a variety of roles at both small and large companies around Chicago. In 2011 an opportunity to work with a vendor brought us (myself, my wife, and then 1-year old son) to the Indianapolis area. We added our first “Hoosier Born” son in 2013, I went to work at a startup in 2015, and have been at Microsoft since early 2018. I have a passion for technology, I work every day to learn something new, I am a reformed gamer, and I practice Brazilian Jiu Jitsu in my free time.
+---
+company: Microsoft
+---
+twitter: @erickmoore
+---
+website: 
+---
+title:  Automating Infrastructure as Code with Azure DevOps
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 11:15am
+---
+track: breakout_a
+---
+abstract:
+This will be a whirlwind session as we discuss and demonstrate many different parts of Infrastructure as Code (IaC) and CI/CD in just 45 minutes. Accelerating deployments, improving security, reducing re-work, and improving reliability are all stated benefits of cloud computing, but they cannot be achieved without IaC. Join Erick Moore (Sr Cloud Solution Architect at Microsoft) to learn how integrating well established development practices into infrastructure operations enables businesses to achieve better cost management, security, resource consistency, access control, and deployment acceleration.
+
+We begin by describing imperative vs declarative programming language in the context of cloud deployments. Next we provide a high level overview of cloud native IaC solutions vs. cloud agnostic offerings highlighting when you might choose one approach over another.
+
+Keeping infrastructure deployments protected with version and source control is another critical step of successful IaC, and we investigate why popular code branching methods like GitFlow that work well for applications may not be a good approach for IaC. Maintaining long running and persistent branches is sometimes required for infrastructure, and though there isn’t a one size fits all approach we will focus on how an environmental branching strategy can work well for our needs.
+
+During the presentation we will build multiple CI/CD pipelines in Azure DevOps. Unlike traditional code, there is nothing to compile with IaC. Because of this issue existing methods of build/release need to be modified in order to support IaC workflows which we will walk through as we build. We will setup triggers for our pipeline to execute our build step, and we will publish our artifacts to a release pipeline. We then create our release pipeline, setup triggers, and validate our deployment.
+
+Finally, we will clone our existing build/release pipeline, create new code branches, protect them with branch policies, and by leveraging the status API in Azure DevOps create a custom step in our pipeline to validate success/failure of our deployment. We will show how this combined with our branch policies can protect merging bad code into our master branch.
