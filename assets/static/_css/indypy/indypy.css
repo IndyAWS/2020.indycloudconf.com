@@ -103,11 +103,15 @@ h4 {
     letter-spacing: 0;
 }
 a {
-    color: #fff;
+    color: #7100FF;
     cursor: pointer;
 }
 a:hover {
     color: #0C7BF4;
+}
+.home a,
+.about .one-half.column a {
+  color:#FFF;
 }
 input,
 select {
