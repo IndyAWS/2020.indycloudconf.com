@@ -113,6 +113,10 @@ a:hover {
 .about .one-half.column a {
   color:#FFF;
 }
+.home a:hover,
+.about .one-half.column a:hover {
+  color:#0C7BF4;
+}
 input,
 select {
     margin-top: 0;
