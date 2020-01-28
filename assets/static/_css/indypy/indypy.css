@@ -114,7 +114,9 @@ a:hover {
   color:#FFF;
 }
 .home a:hover,
-.about .one-half.column a:hover {
+.home a:focus,
+.about .one-half.column a:hover,
+.about .one-half.column a:focus {
   color:#0C7BF4;
 }
 input,
