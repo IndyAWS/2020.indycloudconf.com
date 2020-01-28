@@ -70,3 +70,6 @@ body.about.organizers .contact a {
 body.about.organizers .contact a:hover {
     opacity: 0.5;
 }
+body.about.page_the-conference #main .main a {
+    color: #fff;
+}

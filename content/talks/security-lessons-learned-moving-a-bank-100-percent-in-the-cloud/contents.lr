@@ -2,7 +2,7 @@ _model: talk
 ---
 _template: talk.jade
 ---
-speaker: Steve Loudin
+speaker: Steve Lodin
 ---
 bio:
 Steve Lodin is the Senior Director of Cyber Security Operations in Corporate Security at Sallie Mae. Mr. Lodin is focused on managing perimeter security, endpoint protection, application security, vulnerability management, and threat intelligence to reduce risk and ensure compliance. As an accomplished information security professional, Mr. Lodin has been published in numerous information security publications. He has been a speaker at many security conferences. He is a senior member of ISSA and a board member of the Ohio River Valley Cloud Security Alliance (CSA) chapter. Mr. Lodin has maintained his CISSP certification since 1998. He has a Master’s Degree in Computer Science from Purdue University where he was a member of the COAST/CERIAS program.
