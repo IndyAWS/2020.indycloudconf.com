@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Gokul Prabagaren
+---
+bio:
+First Programming Language Personally : Basic First Programming Language Professionally : Java 1.4 on Sun Solaris Latest Stint : Running Apache Spark in Centos VMs and Running Services in K8s
+---
+company: Capital One
+---
+twitter: @gocool_p
+---
+website:
+---
+title:  How Enriching datasets approach using Apache Spark solves granular tracing issue in regulated financial services industry
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 3:45pm
+---
+track: grand_forum
+---
+abstract:
+Apache Spark provides lot of options of joining the data for its data sets. This talk will focus on comparing the approach of Enriching the data (left outer join) versus filtering the data(inner join).How both approaches end up with same result and highlight the merits of Enriching the data approach helped us in CapitalOne. We at CapitalOne are heavy users of Spark from its initial days.This talk will provide more details of how we evolved from filtering to Enriching the data for credit card transactions and highlight what benefits we got by following Enriching the data approach. Being the financial institution, we are bound by regulation.We need to backtrace all credit card transactions processed through our engine. Will be providing the details on how Enriching the data approach solved us this requirement. This talk will provide more context on how financial institutions can use Enriching the data approach for their Spark workloads and backtrace all the data they processed this approach. We have used the filtering approach in Production and what were it issues and why we moved to Enriching the data approach in Production will also be covered in this talk. Attendees will be able to take away the more details on Enriching and filtering options to decide on their use cases.
