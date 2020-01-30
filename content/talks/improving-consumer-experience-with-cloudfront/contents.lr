@@ -19,7 +19,7 @@ scheduled_date: 2020-03-27
 ---
 scheduled_time: 10:30am
 ---
-track: breakout_b
+track: breakout_a
 ---
 abstract:
 In the digital world, new product offerings demand increased forms of content to attract consumers. Delivering rich content can become costly and if not well managed can create a poor consumer experience. In this presentation we will take a bottom up approach as a new player in the global marketplace seeking to launch a highly responsive, cost effective website. We will explore enabling technologies with an emphasis on CloudFront, and explain how each can help you deliver a content rich website.
