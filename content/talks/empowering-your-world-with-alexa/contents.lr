@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Stephen Sailor
+---
+bio:
+An experienced AWS practitioner, Stephen has adopted the mission to gain experience with AWS capabilities as quickly possible. He currently holds multiple AWS certifications and daily works with clients furthering his skills and knowledge. He has delivered AWS solutions across both development and DevOps domains, providing best fit solutions for CleanSlate clients.
+---
+company: CleanSlate
+---
+twitter: @CleanSlate_TG
+---
+website: https://www.cleanslatetg.com/
+---
+title:  Empowering Your World With Alexa
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 3:45pm
+---
+track: breakout_b
+---
+abstract:
+Voice driven computing is revolutionizing how we work, live and play in the digital world. People are interacting with applications in new ways, providing easier access to weather forecasts, home automation, and a variety of other applications. In this presentation we will delve into Amazon Alexa and explore how we can use this awesome platform to build conversational smart bots both quickly and easily.

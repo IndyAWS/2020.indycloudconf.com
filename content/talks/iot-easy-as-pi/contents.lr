@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Darren Mills
+---
+bio:
+A recognized technology leader, Darren Mills leads delivery of the technical strategy for CleanSlate and implements digital solutions for CleanSlate clients. Darren’s breadth of technology experience (including AWS, Java, Salesforce, Mulesoft, Agile, and more) uniquely position him to offer leading edge enterprise solutions. Darren loves cutting-edge technologies and continues to “get his hands dirty” learning emerging market trends.
+---
+company: CleanSlate
+---
+twitter: @CleanSlate_TG
+---
+website: https://www.cleanslatetg.com/
+---
+title:  IoT Easy as Pi
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 2:15pm
+---
+track: breakout_b
+---
+abstract:
+The Internet of Thing (IoT) is rapidly becoming more popular as services, such as home automation and health management, become mainstream solutions. The consumer market continues to grow as the development of these IoT solutions becomes “easy” to implement through use of Cloud solutions. AWS IoT offers several different services to enable quick and easy delivery of products at scale. Join us to learn about Amazon’s 1-Click IoT platform that powers the Dash Button and then a full-blown implementation of a cellular connected weather station with a Raspberry Pi and AWS IoT.

@@ -1,0 +1,29 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Harnoor Minhas
+---
+bio:
+Harnoor Minhas is a Senior Data Warehouse Engineer, AWS Certified Solution Architect Associate and a Cloud Technology Enthusiast at Quicken Loans, the nation’s largest mortgage lender, which is based in Detroit, Michigan. Harnoor has more than 15 years of diverse work experience working in various sectors namely banking, securities, finance, education, tax, regulatory, private, state and federal government.
+
+Harnoor Minhas believes in continuous improvement and his personal mantra is ‘Believe in Yourself. Live and Grow Everyday’. He also loves helping and mentoring people in technology to realize their full potential. Harnoor is deeply interested in keeping up with the latest technology developments in Big Data, Graph Databases, Natural Language Processing, Machine Learning, Serverless Computing and their implementation in AWS cloud. Harnoor is also into cryptocurrency and at point was also heating up his basement using his cryptocurrency mining rig, utilizing 16 graphic cards.
+---
+company: Quicken Loans
+---
+twitter:
+---
+website: https://www.linkedin.com/in/harnoorminhas/
+---
+title:  From Zero to Machine Learning in 45 Minutes
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 11:15am
+---
+track: grand_forum
+---
+abstract:
+Have you heard of the catchphrases Artificial Intelligence and Machine Learning? So is this yet another theoretical and boring lecture on how cool all this is? …Not Really! During this session, I will take you on a journey of learning about Artificial Intelligence, Machine Learning, Reinforcement Machine Learning and AWS (Amazon Web Services) DeepRacer.
+
+In the end you will walk away with understanding of different types of Machine Learning and how it’s implemented in the industry. You will also be able to quickly and easily - build, train and evaluate your own Reinforcement Machine Learning Model using AWS (Amazon Web Services) and simple Python code. You will see your virtual car model learn, adapt and improve – all in real time as it navigates itself around a virtual race track.

@@ -1,0 +1,33 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Mesut Celik
+---
+bio:
+Mesut is Tech Lead @ Hazelcast, an Open Source in-Memory Computing Platform, and works on building strong bridge between Hazelcast and cloud-native ecosystem including Kubernetes, Serverless, DevOps. He is a java developer and has lived in Turkey,Belgium and US so far. He is passionate about giving talks in public conferences and local meetups.
+---
+company: Hazelcast
+---
+twitter: @mesutcelik
+---
+website: https://www.linkedin.com/in/mesutcelik/
+---
+title:  High Performance Cloud-Native Microservices
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 3:45pm
+---
+track: breakout_b
+---
+abstract:
+As Monolith to Microservices migration almost became mainstream, Engineering Teams have to think about how their caching strategies will evolve in cloud-native world. Kubernetes is clear winner in containerized world so caching solutions must be cloud-ready and natural fit for Kubernetes.
+
+Caching is an important piece in high performance microservices and choosing right architectural pattern can be crucial for your deployments. Hazelcast is a well known caching solution in open source community and can handle caching piece in microservices based applications.
+
+In this talk, you will learn
+- Distributed Caching With Hazelcast
+- Distributed Caching Patterns in Kubernetes
+- Kubernetes Deployment Options and Best Practices
+- How to Handle Distributed Caching Day 2 Operations

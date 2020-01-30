@@ -1,0 +1,27 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Mark DeLaVergne
+---
+bio:
+I’ve worked for over a decade in the tech industry, surrounded by the top software engineers in Indianapolis. I now work at LifeOmic, architecting multiple areas of our Precision Health Cloud platform that integrates patient data across systems and various tests to improve how doctors diagnose and treat disease. I’m excited about how healthcare is transforming in its technology usage, and how analytics and machine learning have the potential to affect both population health and personalized treatment. I’m passionate about helping the healthcare industry use technology to be more efficient and effective. For example, while doctors currently use blood tests to decide how to diagnose and prescribe, the day is coming when genetic testing will be just as important. Putting all this data together to drive better patient care is just one of the ways LifeOmic is going to be part of improving the health millions of people.
+---
+company: LifeOmic
+---
+twitter: @markdelavergne
+---
+website: https://lifeomic.com
+---
+title:  Wearables data feed
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 3:00pm
+---
+track: grand_forum
+---
+abstract:
+Have you ever thought about just how much health data is stored on your smart phone? Now imagine multiplying that by the number of users on a large mobile app platform. This presentation will go over the details of how LifeOmic, a precision health company headquartered in Indianapolis, built an ingestion pipeline for wearables health data and managed the volume for analytics. The pipeline contains several steps before being ingested into a performant FHIR API, including handling duplicates and managing data aggregation for things like per-15-second metrics.
+
+Once ingested, the data can be searched to answer complex questions such as: How is this patient’s sleep affecting the prescribed activity regimen? The pipeline makes use of several services from AWS that helped to speed up the development. You will hear how we leveraged them and some of the speed bumps we hit along the way.
