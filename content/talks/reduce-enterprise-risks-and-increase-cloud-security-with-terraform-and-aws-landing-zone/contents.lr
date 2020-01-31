@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Eugene Istrati
+---
+bio:
+Eugene Istrati has spent over two decades as a technologist in a variety of industries, including digital media, cloud computing, and reputation marketing. Before joining Mitoc Group as Technology Partner, Eugene worked as Director of Engineering at Hearst Corporation and Program Manager at Amazon Web Services. He holds a dual Bachelor of Science degree in Mathematics and Computer Science, as well as a Master of Science degree in Computer Science and Engineering.
+---
+company: Mitoc Group
+---
+twitter: @eistrati
+---
+website: https://www.mitocgroup.com
+---
+title:  Reduce Enterprise Risks and Increase Cloud Security with Terraform and AWS Landing Zone
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 2:15pm
+---
+track: grand_forum
+---
+abstract:
+Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Best practices include collaborative approach to infrastructure provisioning, use of version control systems and prevent manual changes, as well as efficient management of boundaries between different teams, roles, applications and deployment tiers. In this session we will walk you through our journey of helping customers set up AWS Landing Zone – a secure, multi-account AWS environment based on AWS best practices. We will focus on lessons learned and best practices that goes above and beyond official documentation.
