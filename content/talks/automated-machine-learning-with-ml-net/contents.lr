@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Shane Milton
+---
+bio:
+As leader of teams and technology strategy, Shane Milton brings a decade of Azure solution experience to CleanSlate’s multiple clients. With experience in both health care and energy industries, Shane’s cloud-first and machine learning solutions have provided companies with modern enterprise systems that have impacted millions of customers. Outside of work, Shane loves to spend time with his family, follows the Colts, and dabbles in Quantum Computing.
+---
+company: CleanSlate
+---
+twitter: @CleanSlate_TG
+---
+website: https://www.cleanslatetg.com/
+---
+title:  Automated Machine Learning with ML.NET
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 1:30pm
+---
+track: grand_forum
+---
+abstract:
+Machine Learning can be an intimidating nut to crack, but it doesn’t have to be. Many of us have seen a quick tutorial on how to create an ML model, but the selection and configuration of algorithms can be challenging, making development tedious and frustrating. In this presentation, we will show how ML.NET and AutoML can greatly simplify the training process and provide some powerful features when delivering ML solutions.

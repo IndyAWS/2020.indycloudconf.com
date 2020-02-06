@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Shane Milton
+---
+bio:
+As leader of teams and technology strategy, Shane Milton brings a decade of Azure solution experience to CleanSlate’s multiple clients. With experience in both health care and energy industries, Shane’s cloud-first and machine learning solutions have provided companies with modern enterprise systems that have impacted millions of customers. Outside of work, Shane loves to spend time with his family, follows the Colts, and dabbles in Quantum Computing.
+---
+company: CleanSlate
+---
+twitter: @CleanSlate_TG
+---
+website: https://www.cleanslatetg.com/
+---
+title:  Cloud First Web Apps in Azure
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 3:00pm
+---
+track: breakout_a
+---
+abstract:
+Creating cloud enabled applications has several distinct differences compared to traditional software solutions. Cloud native applications built leveraging Azure cloud services can look very different than the typical Microsoft stack. In this introductory presentation, we will show you how to deliver web applications that are built from scratch with the cloud in mind, specifically meant for Azure.
