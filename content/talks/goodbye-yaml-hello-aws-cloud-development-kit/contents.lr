@@ -5,11 +5,11 @@ _template: talk.jade
 speaker: Ken Winner
 ---
 bio:
-Ken Winner graduated from Ball State University with a degree in Computer Science. He has a background in cloud services ranging from AWS to Azure as well as desktop applications. He works at Trek10 on the professional services team. Ken is an AWS Certified Solutions Architect - Professional.
+Ken Winner graduated from Ball State University with a degree in Computer Science. He has a background in cloud services ranging from AWS to Azure as well as desktop applications. He works at Voxi. Ken is an AWS Certified Solutions Architect - Professional.
 
 Ken’s primary focus is on Serverless and IoT applications and architectures. He has cut his teeth on several serverless projects and a few Serverless framework plugins. Working all across “the stack”, Ken’s projects have included internal website monitoring, Cognito setup and integration, application migrations to serverless, and IoT event pipelines with Kinesis and Lambda.
 ---
-company: Trek10
+company: Voxi
 ---
 twitter: @@KenWin0x539
 ---
