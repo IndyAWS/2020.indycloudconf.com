@@ -50,8 +50,7 @@ block main
                     {% endfor %}
                 {% endfor %}
                 {% else %}
-                td.description(colspan=3)
-                <td colspan="1" class="{% if timeslot.type == 'nontalk' %}muted{% endif %}">
+                <td colspan="3" class="{% if timeslot.type == 'nontalk' %}muted{% endif %}">
                 {% if timeslot.link %}<a href="{{ timeslot.link }}">{% endif %}
                 #[span.label {{ timeslot.description }}]
                 {% if timeslot.link %}</a>{% endif %}
