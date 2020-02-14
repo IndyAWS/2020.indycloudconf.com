@@ -1,0 +1,16 @@
+_template: afterpartyvenue.jade
+---
+title: After Party
+---
+background: /static/backgrounds/wolfies.jpg
+---
+body:
+
+**Wolfies Grill - Geist <br>(Geist, IN)**
+
+Join us at Wolfies Grill - Geist from 5:30pm - 10:00pm on March 26th for the official Indy Cloud Conf after party.
+
+Take a break from learning about the cloud and connect with your fellow attendees at this beautiful venue overlooking the Geist reservoir.
+Wolfies' warm, welcoming event space is located just 15 minutes from the conference venue, and only 30 minutes to downtown Indianapolis.
+
+---
