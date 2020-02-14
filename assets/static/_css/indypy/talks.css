@@ -8,7 +8,7 @@ body.talks.talk-list .item {
     vertical-align: top;
 }
 body.talks.talk-list .item a {
-   text-decoration: none; 
+   text-decoration: none;
 }
 body.talks.talk-list .headshot {
     display: block;
@@ -126,6 +126,10 @@ body.talks.schedule .schedule-table td.track {
 body.talks.schedule .schedule-table td > a {
     display: block;
     text-decoration: none;
+}
+body.talks.schedule .schedule-table td.muted {
+    background-color: #e5e5e5;
+    text-align: center;
 }
 body.talks.schedule .schedule-table .speaker {
     font-weight: bold;
