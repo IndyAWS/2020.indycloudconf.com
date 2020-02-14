@@ -48,12 +48,12 @@ block main
                   {% endfor %}
               {% endfor %}
             {% else %}
-              <td colspan="3" class="{% if timeslot.type == 'nontalk' %}muted{% endif %}">
-              {% if timeslot.link %}<a href="{{ timeslot.link }}">{% endif %}
-              #[span.label {{ timeslot.description }}]
-              {% if timeslot.link %}</a>{% endif %}
-              </td>
-              {% endif %}
-              {% endif %}
+            <td colspan="3" class="{% if timeslot.type == 'nontalk' %}muted{% endif %}">
+            {% if timeslot.link %}<a href="{{ timeslot.link }}">{% endif %}
+            #[span.label {{ timeslot.description }}]
+            {% if timeslot.link %}</a>{% endif %}
+            </td>
+            {% endif %}
+            {% endif %}
 
-            {% endfor %}
+          {% endfor %}
