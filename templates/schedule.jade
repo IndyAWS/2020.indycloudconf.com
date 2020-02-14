@@ -36,27 +36,27 @@ block main
                 td Hardware/IoT
             {% for timeslot in day.program %}
             tr
-                td.time.
-                    #[span.start {{ timeslot.start }}]
-                {% set talks=site.query("/talks").filter((F.scheduled_date == day.date).and(F.scheduled_time == timeslot.start)) %}
-                {% if talks %}
-                {% for track in ["grand_forum", "breakout_a", "breakout_b"] %}
-                {% endfor %}
-                td.track
-                    {% for talk in talks %}
-                    {% if talk.track == track %}
-                    a(href="{{ talk|url }}").
-                        #[span.speaker {{ talk.speaker }}]: #[span.title {{ talk.title }}]
-                    {% endif %}
-                    {% endfor %}
-                {% endfor %}
-                {% else %}
-                <td colspan="3" class="{% if timeslot.type == 'nontalk' %}muted{% endif %}">
-                {% if timeslot.link %}<a href="{{ timeslot.link }}">{% endif %}
-                #[span.label {{ timeslot.description }}]
-                {% if timeslot.link %}</a>{% endif %}
-                </td>
+            {% set talks=site.query("/talks").filter((F.scheduled_date == day.date).and(F.scheduled_time == timeslot.start)) %}
+            {% if talks %}
+            {% for track in ["grand_forum", "breakout_a", "breakout_b"] %}
+            td.track
+                {% for talk in talks %}
+                {% if talk.track == track %}
+                a(href="{{ talk|url }}").
+                    #[span.speaker {{ talk.speaker }}{% if talk.speaker2 %} & {{talk.speaker2}}{% endif %}]: #[span.title {{ talk.title }}]
                 {% endif %}
-                {% endif %}
-
+                {% endfor %}
             {% endfor %}
+            {% else %}
+            <td colspan="3" class="{% if timeslot.type == 'nontalk' %}muted{% endif %}">
+            {% if timeslot.link %}<a href="{{ timeslot.link }}">{% endif %}
+            #[span.label {{ timeslot.description }}]
+            {% if timeslot.link %}</a>{% endif %}
+            </td>
+            {% endif %}
+            {% endif %}
+
+        {% endfor %}
+    {% else %}
+    h3 Check out our #[a(href="{{ '/talks'|url }}") incredible speakers] while you wait.
+    {% endfor %}
