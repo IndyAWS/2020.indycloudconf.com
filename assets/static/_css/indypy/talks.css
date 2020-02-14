@@ -134,3 +134,6 @@ body.talks.schedule .schedule-table td.muted {
 body.talks.schedule .schedule-table .speaker {
     font-weight: bold;
 }
+body.talks.schedule td a[href="https://2020.indycloudconf.com/after-party/"] {
+  text-align: center;
+}
