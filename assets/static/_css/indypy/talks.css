@@ -126,6 +126,7 @@ body.talks.schedule .schedule-table td.track {
 body.talks.schedule .schedule-table td > a {
     display: block;
     text-decoration: none;
+    text-align: center;
 }
 body.talks.schedule .schedule-table td.muted {
     background-color: #e5e5e5;
