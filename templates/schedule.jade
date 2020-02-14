@@ -30,7 +30,7 @@ block main
 
         table.schedule-table
             thead
-                td Time
+                td.time Time
                 td Machine Learning/AI/Big Data
                 td DevOps
                 td Hardware/IoT
@@ -41,6 +41,7 @@ block main
                 {% set talks=site.query("/talks").filter((F.scheduled_date == day.date).and(F.scheduled_time == timeslot.start)) %}
                 {% if talks %}
                 {% for track in ["grand_forum", "breakout_a", "breakout_b"] %}
+                {% endfor %}
                 td.track
                     {% for talk in talks %}
                     {% if talk.track == track %}
