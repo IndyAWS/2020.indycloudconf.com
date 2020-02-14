@@ -34,7 +34,7 @@ block main
                 td Machine Learning/AI/Big Data
                 td DevOps
                 td Hardware/IoT
-              {% for timeslot in day.program %}
+            {% for timeslot in day.program %}
             tr
                 td.time.
                     #[span.start {{ timeslot.start }}]
@@ -45,11 +45,10 @@ block main
                     {% for talk in talks %}
                     {% if talk.track == track %}
                     a(href="{{ talk|url }}").
-                       #[span.speaker {{ talk.speaker }}]: #[span.title {{ talk.title }}]
-                   {% endif %}
-                   {% endfor %}
+                        #[span.speaker {{ talk.speaker }}]: #[span.title {{ talk.title }}]
+                    {% endif %}
+                    {% endfor %}
                 {% endfor %}
-                {% else %}
                 {% else %}
                 td.description(colspan=3)
                 <td colspan="3" class="{% if timeslot.type == 'nontalk' %}muted{% endif %}">
@@ -58,7 +57,7 @@ block main
                 {% if timeslot.link %}</a>{% endif %}
                 </td>
                 {% endif %}
-                {% endfor %}
-              {% else %}
-              h3 Check out our #[a(href="{{ '/talks'|url }}") incredible speakers] while you wait.
-              {% endfor %}
+            {% endfor %}
+        {% else %}
+        h3 Check out our #[a(href="{{ '/talks'|url }}") incredible speakers] while you wait.
+        {% endfor %}
