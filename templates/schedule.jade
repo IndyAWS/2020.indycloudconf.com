@@ -35,7 +35,7 @@ block main
                 td DevOps
                 td Hardware/IoT
               {% for timeslot in day.program %}
-              tr
+            tr
                 td.time.
                     #[span.start {{ timeslot.start }}]
                 {% set talks=site.query("/talks").filter((F.scheduled_date == day.date).and(F.scheduled_time == timeslot.start)) %}
