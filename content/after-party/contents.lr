@@ -2,7 +2,7 @@ _template: afterpartyvenue.jade
 ---
 title: After Party
 ---
-background: /static/backgrounds/wolfies.png
+background: /static/backgrounds/wolfies.jpg
 ---
 body:
 
