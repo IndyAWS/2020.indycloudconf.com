@@ -53,8 +53,10 @@ block main
             #[span.label {{ timeslot.description }}]
             {% if timeslot.link %}</a>{% endif %}
             </td>
+            {% endif %}
+            {% endif %}
 
-        {% endfor %}
+            {% endfor %}
     {% else %}
     h3 Check out our #[a(href="{{ '/talks'|url }}") incredible speakers] while you wait.
     {% endfor %}
