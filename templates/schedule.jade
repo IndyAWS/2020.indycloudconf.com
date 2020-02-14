@@ -36,9 +36,9 @@ block main
                 td Hardware/IoT
             {% for timeslot in day.program %}
             tr
-            {% set talks=site.query("/talks").filter((F.scheduled_date == day.date).and(F.scheduled_time == timeslot.start)) %}
-            {% if talks %}
-            {% for track in ["grand_forum", "breakout_a", "breakout_b"] %}
+              {% set talks=site.query("/talks").filter((F.scheduled_date == day.date).and(F.scheduled_time == timeslot.start)) %}
+              {% if talks %}
+              {% for track in ["grand_forum", "breakout_a", "breakout_b"] %}
             td.track
                 {% for talk in talks %}
                 {% if talk.track == track %}
@@ -53,8 +53,6 @@ block main
             #[span.label {{ timeslot.description }}]
             {% if timeslot.link %}</a>{% endif %}
             </td>
-            {% endif %}
-            {% endif %}
 
         {% endfor %}
     {% else %}
