@@ -1,0 +1,18 @@
+_hidden: yes
+---
+name: Indiana IoT Lab
+---
+tier: community
+---
+is_npo: false
+---
+website: https://indianaiot.com/
+---
+description:
+The Indiana IoT Lab facility exists as a hub of innovation and collaboration. Through our facility, entrepreneurs and businesses will have the space they need to bring together each component of IoT solutions: ideation, cloud data, edge hardware, and development
+---
+logo: indiana_iot_full_color_horizontal.png
+---
+logo_dark_bg: indiana_iot_reverse_horizontal.png
+---
+signed_on: 2020-02-21
