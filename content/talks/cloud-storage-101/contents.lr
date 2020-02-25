@@ -4,11 +4,11 @@ _template: talk.jade
 ---
 speaker: Ben Davis
 ---
-bio: Ben Davis resides in Indianapolis, IN. 
+bio: Ben Davis resides in Indianapolis, IN.
 ---
 company: GadellNet Consulting Services
 ---
-twitter:
+twitter: https://twitter.com/GadellNet
 ---
 website: https://gadellnet.com/
 ---
