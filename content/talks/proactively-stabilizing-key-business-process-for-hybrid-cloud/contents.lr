@@ -1,0 +1,39 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Laura Vetter
+---
+bio: With over 15 years in federal and commercial software integration and development, Laura provides unique thought leadership to her clients in a collaborative effort to bring their organizations into the increasingly complex and regulated future. Laura brings with her a tremendous amount of experience in both delivering engineering services and leading teams responsible for integrating some of the most innovative technology on the market. Laura has help dozens of the Fortune 500 get visibility into their environment, notably to detect, monitor and remediate issues, most frequently in the Security and Application space. She is well-versed in IT monitoring tool selection, providing organizations insight into product evaluation criteria and subsequently how to extract the most value from the technology that will be leveraged.
+
+Having achieved extensive certifications, Laura is aligned with several of the most disruptive technologies on the market. Highlighted by her experience with Splunk and AppDynamics, Laura is uniquely equipped to navigate and direct the often overwhelming journey to IT modernization.
+
+Fascinated by the business drivers that depend on the competency and ability of the IT organization, her knack for connecting those business drivers with the right technology and weaving together solutions gives her clients the edge needed to stay ahead of the competition.
+---
+company: Splunk
+---
+twitter:
+---
+website: https://www.linkedin.com/in/laura-vetter-ba700780/
+---
+title:  Proactively Stabilizing Key Business Process for Hybrid Cloud
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 3:00pm
+---
+track: breakout_b
+---
+abstract:
+Key business processes run by enterprise applications go hand-in-hand with the customer experience and brand reputation more than ever. Each person using an application, whether that be an employee or customer, has a small but important digital journey to take.
+
+The CX challenge: as these apps support more and more of the business's revenue, underneath is a complex mixed infrastructure cloud, multiple platforms (e.g. AWS, Azure, GCP), on-prem, legacy tech, and 3rd party data. The cloud & infrastructure challenge: when considering WHY organizations are using mullti-cloud for applications, lifting and shifting 100% of the application and day isn't always immediately practical. It can be expensive, time-consuming, and error-prone. So, many teams tackle these infrastructure modernization efforts by moving the broken processes first. Or, they're building net-new applications in the cloud.
+
+The solution: By using data monitoring platforms like Splunk, once teams have the basic, standardized visibility in place, they are freed-up to proactively monitor a hybrid cloud environment's key business data.
+During the presentation, you will learn how to:
+· Why organizations MUST nail the cloud monitoring basics first when adopting tools for infrastructure + cloud monitoring and performance analytics
+· Once the basics are in place, how Machine-Learning based Detection Mechanisms can be used
+· Tracking transfers and changes to sensitive data
+· Monitor critical KPIs and visualizing them, then using ML to keep the supporting business processes running
+· Use standardized approaches for security, fraud, system health, and operations
+· Use Splunk to pull in cloud and on-prem ERP business data (e.g. SAP ERP) to enrich, understand and correlate other data streams
