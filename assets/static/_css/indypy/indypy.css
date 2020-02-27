@@ -708,8 +708,8 @@ footer .links li a:hover {
     width: 170px;
     height: 110px;
 }
-#sponsors .sponsor-logos .item.gold .logo,
-#sponsors .sponsor-logos .item.gold_npo .logo{
+#sponsors .sponsor-logos .item.ruby .logo,
+#sponsors .sponsor-logos .item.ruby_npo .logo{
     width: 140px;
     height: 90px;
 }
@@ -717,6 +717,11 @@ footer .links li a:hover {
 #sponsors .sponsor-logos .item.community.sponsor_npo .logo {
     width: 120px;
     height: 70px;
+}
+#sponsors .sponsor-logos .item.media.sponsor .logo,
+#sponsors .sponsor-logos .item.media.sponsor_npo .logo {
+    width: 100px;
+    height: 50px;
 }
 
 #sponsors .sponsor-logos .item a {
