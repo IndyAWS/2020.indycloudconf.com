@@ -11,15 +11,15 @@ company: Microsoft
 ---
 twitter: @erickmoore
 ---
-website: 
+website:
 ---
 title:  Automating Infrastructure as Code with Azure DevOps
 ---
 scheduled_date: 2020-03-27
 ---
-scheduled_time: 11:15am
+scheduled_time: 3:00pm
 ---
-track: breakout_a
+track: grand_forum
 ---
 abstract:
 This will be a whirlwind session as we discuss and demonstrate many different parts of Infrastructure as Code (IaC) and CI/CD in just 45 minutes. Accelerating deployments, improving security, reducing re-work, and improving reliability are all stated benefits of cloud computing, but they cannot be achieved without IaC. Join Erick Moore (Sr Cloud Solution Architect at Microsoft) to learn how integrating well established development practices into infrastructure operations enables businesses to achieve better cost management, security, resource consistency, access control, and deployment acceleration.

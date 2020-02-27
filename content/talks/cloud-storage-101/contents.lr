@@ -18,7 +18,7 @@ scheduled_date: 2020-03-27
 ---
 scheduled_time: 3:30pm
 ---
-track: grand_forum
+track: breakout_b
 ---
 abstract:
 With so many storage options in public clouds, how do you choose the option that’s right for you? Block, object, IOPS, throughput, retention, snapshots – it’s enough to make your heads thrash in a random I/O pattern! This session will help slow your heads down into a sequential, high block size pattern so you can quickly learn which options are right for you as well as nerd out on storage concepts so you can understand why some of these options exist.
