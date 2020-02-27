@@ -28,7 +28,6 @@ We are offering sponsorship levels for every budget and objective.
 	<option value="Ruby Sponsorship">Ruby Sponsorship $1,250.00 USD</option>
 	<option value="Platinum Sponsorship">Platinum Sponsorship $2,500.00 USD</option>
 	<option value="Title Sponsorship">Title Sponsorship $10,000.00 USD</option>
-	<option value="Lanyards Sponsorship">Lanyards Sponsorship $500.00 USD</option>
 	<option value="Table Signs Sponsorship">Table Signs Sponsorship $500.00 USD</option>
 	<option value="Coffee Sponsorship">Coffee Sponsorship $500.00 USD</option>
 	<option value="Lunch Sponsorship">Lunch Sponsorship $500.00 USD</option>
@@ -40,6 +39,7 @@ We are offering sponsorship levels for every budget and objective.
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 ### How To Pay For Your Sponsorship
 We accept payments via PayPal, either through your PayPal account or your credit/debit card. You can choose your preferred payment method once you are transferred to the PayPal interface.

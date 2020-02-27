@@ -22,7 +22,7 @@ footer {
 
 /* Footer sponsor logo stuff */
 footer .sponsor-logos-footer {
-    width: 33%;
+    width: 50%;
     margin: 0 auto;
 }
 
@@ -720,6 +720,11 @@ footer .links li a:hover {
 }
 #sponsors .sponsor-logos .item.media.sponsor .logo,
 #sponsors .sponsor-logos .item.media.sponsor_npo .logo {
+    width: 100px;
+    height: 50px;
+}
+#sponsors .sponsor-logos .item.lanyard .logo,
+#sponsors .sponsor-logos .item.lanyard_npo .logo {
     width: 100px;
     height: 50px;
 }
