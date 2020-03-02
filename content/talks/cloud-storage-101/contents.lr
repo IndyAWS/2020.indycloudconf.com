@@ -4,13 +4,13 @@ _template: talk.jade
 ---
 speaker: Ben Davis
 ---
-bio: Ben Davis resides in Indianapolis, IN.
+bio: Ben is an IT Pro with over 20 years of experience. He loves the rapid advance of technology and evaluating if the new stuff can be used to run infrastructure operations better. He is an expert problem solver that can find the problem needle anywhere in the infrastructure haystack. He's earned architect certs in all three public clouds and loves learning.
 ---
 company: GadellNet Consulting Services
 ---
-twitter: https://twitter.com/GadellNet
+twitter: @BenjaminDavis22
 ---
-website: https://gadellnet.com/
+website: https://www.linkedin.com/in/bendavisitpro/
 ---
 title:  Cloud Storage 101
 ---
