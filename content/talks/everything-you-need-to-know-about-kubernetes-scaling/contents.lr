@@ -19,7 +19,7 @@ scheduled_date: 2020-03-27
 ---
 scheduled_time: 2:15pm
 ---
-track: breakout_a
+track: grand_forum
 ---
 abstract:
 High availability by over-provisioning is easy but we do not have unlimited resources. Once we have Kubernetes cluster installed and Pods are running, our job does not end at this point. Application and Infrastructure Layer scaling is one important fact in Day-2 Operations with multiple options and right choice has direct impact on user experience or infrastructure cost.

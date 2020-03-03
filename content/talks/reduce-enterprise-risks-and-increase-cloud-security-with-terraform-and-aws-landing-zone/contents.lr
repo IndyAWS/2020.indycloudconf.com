@@ -19,7 +19,7 @@ scheduled_date: 2020-03-27
 ---
 scheduled_time: 2:15pm
 ---
-track: grand_forum
+track: breakout_a
 ---
 abstract:
 Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Best practices include collaborative approach to infrastructure provisioning, use of version control systems and prevent manual changes, as well as efficient management of boundaries between different teams, roles, applications and deployment tiers. In this session we will walk you through our journey of helping customers set up AWS Landing Zone – a secure, multi-account AWS environment based on AWS best practices. We will focus on lessons learned and best practices that goes above and beyond official documentation.
