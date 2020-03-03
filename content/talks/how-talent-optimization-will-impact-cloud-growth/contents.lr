@@ -1,0 +1,28 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: John Qualls
+---
+bio: John is the CEO & President at Purpose.ly, an Indianapolis-based talent optimization company that helps organizations understand and empower their employees to align people strategy with business results.
+
+Mr. John Qualls is an accomplished business leader who has spent his entire career developing and promoting innovative technology solutions that drive and enable business growth and profitability.
+
+From his early roots in application development, data center co-location, managed network services, and disaster recovery, he offers a keen understanding of the last decade’s technological trends and cycles that have evolved into today and tomorrow’s hosted IT environments. Now focusing his talents on Talent Optimization and addressing the four talent disconnects of poor fit: job, team, manager, and culture.
+---
+company: Purpose.ly
+---
+twitter: @jqualls
+---
+website: https://www.linkedin.com/in/jqualls/
+---
+title:  How Talent Optimization will Impact Cloud Growth
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time:
+---
+track:
+---
+abstract:
+While cloud computing has transformed the way products are built, managed and brought to market; one area continues to hold back the full potential for all stakeholders . . . talent. John Qualls discusses the emerging market of Talent Optimization. Designing better teams, hiring harder to manage easier, inspiring geographically diverse teams, all means that leaders will have to have new tools and approaches to solving people problems. With the acceleration of digital transformation, it will be the people you hire and inspire who will take your organization to the next level (or miss out taking it there!)
