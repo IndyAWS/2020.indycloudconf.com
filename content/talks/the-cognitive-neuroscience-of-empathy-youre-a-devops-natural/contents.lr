@@ -1,0 +1,24 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Dave Mangot
+---
+bio: Dave Mangot is the principal at Mangoteque and author of Mastering DevOps from Packt Publishing. He was previously the head of Site Reliability Engineering (SRE) for the SolarWinds Cloud companies and is an accomplished systems engineer with over 20 years' experience. He has held positions in various organizations, from small startups to multinational corporations such as Cable & Wireless and Salesforce, from systems administrator to architect. He has led transformations at multiple companies in operational maturity and in a deeper adherence to DevOps thinking. He enjoys time spent as a mentor, speaker, and student to so many talented members of the community.
+---
+company: Mangoteque
+---
+twitter: @davemangot
+---
+website: https://www.linkedin.com/in/dmangot
+---
+title:  The Cognitive Neuroscience of Empathy - You're a DevOps Natural
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time:
+---
+track:
+---
+abstract:
+There is an understanding in the DevOps community that human empathy is a fundamental component of what makes successful collaborators and in understanding our customers.  Scientific discoveries have explored just how innate empathy is to the human condition.  We were born to partner with others instead of "throwing it over the wall".   In this talk we will learn what role your neurobiology has in our ability to empathize with teammates, how to create systems where it can thrive, and why it is at the core of effective software delivery organizations.
