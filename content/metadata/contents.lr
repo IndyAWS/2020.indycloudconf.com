@@ -1,0 +1,10 @@
+_template: page.jade
+---
+title: Indy Cloud Conf Logo
+---
+body:
+##Indy Cloud Conf Logo
+--
+website: https://2020.indycloudconf.com
+---
+logo: logo.png
