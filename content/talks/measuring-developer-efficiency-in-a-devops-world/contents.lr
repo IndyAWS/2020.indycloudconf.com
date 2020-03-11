@@ -1,0 +1,28 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Thomas Mitchell
+---
+bio:
+---
+company: NewRelic
+---
+twitter:
+---
+website:
+---
+title:  Measuring Developer Efficiency in a DevOps World: Key Questions, Metrics & Best Practices
+---
+scheduled_date: 2020-03-26
+---
+scheduled_time: 2:15pm
+---
+track: breakout_a
+---
+abstract:
+DevOps changed everything. But when the goal is continuous and rapid delivery, all too often the biggest challenge involves measuring the effectiveness and value of a cultural shift that is inherently designed to move fast and break things. In this presentation, you'll learn:
+·         What DevOps success looks like
+·         Metrics on high performing DevOps teams
+·         Key questions for measuring developer performance
+·         Actionable advice for improving your organization's DevOps success

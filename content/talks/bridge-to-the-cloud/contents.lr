@@ -1,0 +1,31 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker: Steve Howard
+---
+bio:
+---
+company: Confluent
+---
+twitter:
+---
+website:
+---
+title:  Bridge to the Cloud
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 3:45pm
+---
+track: breakout_a
+---
+abstract:
+Real-time event streaming is enabling enterprises to change their organizational direction and speed to market across all industries. Steve Howard, a Systems Engineer with Confluent, founded by the creators of open source Apache Kafka®, will provide an overview of what event streaming is and why it is different. He will also discuss Confluent Cloud™ - a fully-managed streaming data service based on Apache Kafka. Engineers who want to build streaming applications can easily get started with a fully-built Kafka cluster and related services. Deployable in minutes, it is the ideal service for applications that require very low latency and the ability to scale.
+
+Join this session to learn how Confluent Cloud provides a 99.95% uptime SLA and start developing in minutes on a simple, resilient, and secure cloud service. Unlike proprietary services, Confluent Cloud offers the same open-source Kafka APIs that you know and love - giving you access to the vibrant Kafka ecosystem. Unleash developer productivity and focus on what matters most—velocity!
+
+We will cover:
+- Deploying on leading public clouds
+- Building a bridge to the cloud
+- Operating at scale
