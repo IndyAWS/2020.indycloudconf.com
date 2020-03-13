@@ -2,7 +2,7 @@ _hidden: yes
 ---
 name: Splunk
 ---
-tier: lanyard
+tier: poll
 ---
 is_npo: false
 ---

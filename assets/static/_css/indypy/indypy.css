@@ -728,8 +728,8 @@ footer .links li a:hover {
     width: 90px;
     height: 40px;
 }
-#sponsors .sponsor-logos .item.lanyard .logo,
-#sponsors .sponsor-logos .item.lanyard_npo .logo {
+#sponsors .sponsor-logos .item.poll .logo,
+#sponsors .sponsor-logos .item.poll_npo .logo {
     width: 80px;
     height: 30px;
 }
