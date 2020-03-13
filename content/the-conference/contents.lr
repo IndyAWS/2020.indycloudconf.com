@@ -1,18 +1,12 @@
-_template: about2.jade
+_template: page.jade
 ---
-title: 2020 - Virtual
+title: 
 ---
-background: 
+background:
 ---
 body:
 
 Welcome to the 2nd annual Indy Cloud Conf, a 2-day virtual event focused on the latest Cloud-based technologies and implementations for devops, developers and cloud enthusiasts.
-
-Network with and learn from <a href="https://2020.indycloudconf.com/talks/"> experts </a> as they share their knowledge in Cloud architecture, Cloud native development, Machine Learning, security and automation. Talks will be organized in <a href="https://2020.indycloudconf.com/schedule/"> 3 distinct tracks </a>: DevOps Practices, Machine Learning/AI/Big Data, and Hardware/IOT.
-
-<a href="https://ti.to/indy-cloud-conf/2020"> Join us online</a> and accelerate your adoption of cloud computing.
----
-body2:
 
 The Cloud Conf Digital Experience will expand its reach and:
 
@@ -23,3 +17,7 @@ The Cloud Conf Digital Experience will expand its reach and:
 - prompt attendees to get help via the “Ask Me Anything” channel
 - present live demos from sponsors
 - offer attendees exclusive access to the digital content for 6 months
+
+Network with and learn from <a href="https://2020.indycloudconf.com/talks/"> experts </a> as they share their knowledge in Cloud architecture, Cloud native development, Machine Learning, security and automation. Talks will be organized in <a href="https://2020.indycloudconf.com/schedule/"> 3 distinct tracks </a>: DevOps Practices, Machine Learning/AI/Big Data, and Hardware/IOT.
+
+<a href="https://ti.to/indy-cloud-conf/2020"> Join us online</a> and accelerate your adoption of cloud computing.
