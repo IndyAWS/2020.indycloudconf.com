@@ -39,6 +39,9 @@ body.home #intro .main .logo {
     }
 }
 
+body.home #the-conference {
+    color: #FFF;
+}
 body.home #welcome {
     background-color: #F69321;
     color: #FFF;
