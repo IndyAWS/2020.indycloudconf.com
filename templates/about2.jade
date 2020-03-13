@@ -7,16 +7,16 @@ block body_class
     |about
 
 block main
-
     section#the-conference
-      .background(du-parallax, y="animator")
-          .image.bg-cover(ff-bg="{{ this.background }}")
-      .overlay
-      .main.vcontainer
+        .background(du-parallax, y="animator")
+            .image.bg-cover(ff-bg="{{ this.background }}")
+        .overlay
+        .main.vcontainer
             .inner
                 .container
-                  .one-half.column
-                      h2 {{ this. title }}
-                      {{ this.body.html }}
-                  .one-half.column
-                      {{ this.body2.html }}
+                    .row.fade-up(in-view)
+                        .one-half.column
+                            h2 {{ this. title }}
+                            {{ this.body.html }}
+                        .one-half.column
+                            {{ this.body2.html }}
