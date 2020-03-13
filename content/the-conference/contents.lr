@@ -2,7 +2,7 @@ _template: about2.jade
 ---
 title: 2020 - Virtual
 ---
-background: /static/backgrounds/fiber-optics.jpg
+background: 
 ---
 body:
 
