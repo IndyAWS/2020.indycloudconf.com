@@ -1,0 +1,19 @@
+extends "base.jade"
+
+block page_title
+    |{{ this.title }} &mdash; {{super()}}
+
+block body_class
+    |about
+
+block main
+
+      section#the-conference
+          .main.vcontainer
+              .inner
+                  .container
+                    .one-half.column
+                        h2 {{ this. title }}
+                        {{ this.body.html }}
+                    .one-half.column
+                        {{ this.body2.html }}
