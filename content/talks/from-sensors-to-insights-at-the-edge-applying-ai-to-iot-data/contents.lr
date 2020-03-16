@@ -5,9 +5,7 @@ _template: talk.jade
 speaker:  John Walicki
 ---
 bio:
-John Walicki is the CTO for Edge/IoT Advocacy in the Developer Ecosystem
-Group of IBM Cognitive Applications Group. As an IBM Developer Advocate
-with deep expertise in IoT, he inspires developers to build solutions with
+John Walicki is the CTO for Edge/IoT Advocacy in the Developer EcosystemnGroup of IBM Cognitive Applications Group. As an IBM Developer Advocate with deep expertise in IoT, he inspires developers to build solutions with
 the powerful Watson IoT capabilities, Watson Cognitive APIs and IBM Cloud.
 He helps developers create custom IoT and embedded Linux solutions for
 their industrial and educational use cases. He previously held roles as
