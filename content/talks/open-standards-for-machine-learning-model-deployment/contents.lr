@@ -1,0 +1,25 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker:  Svetlana Levitan
+---
+bio:
+Svetlana is a Senior Developer Advocate with IBM Center for Open Source Data and Artificial Intelligence Technologies. She created Chicago affiliate for IBM Academy of Technology and is now a member of the Academy. Previously she was a software engineer and technical lead for SPSS statistical and machine learning components for 18 years. Svetlana represented SPSS and after 2009 acquisition IBM at the Data Mining Group (DMG). She is the DMG release manager for PMML, an open standard for model deployment. Lately she also works on another open standard, ONNX, that is quickly gaining popularity in Deep Learning communities. She holds a PhD in Applied Mathematics and MS in Computer Science from University of Maryland, College Park. Svetlana loves to share her expertise and takes every opportunity to involve girls into STEM. Her two daughters enjoy Computer Science, Mathematics, and technology in college and high school.
+---
+company: IBM
+---
+twitter:
+---
+website: https://www.linkedin.com/in/svetlanalevitan/
+---
+title:  Open Standards For Machine Learning Model Deployment
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 2:15pm
+---
+track: grand_forum
+---
+abstract:
+The use of Machine Learning in all application areas is on the rise. Once a good model is created, it needs to be serialized to be transmitted and deployed, i.e. positioned for producing predictions for new cases. This is often difficult because model building and deployment are typically done by different teams, using different programming environments and languages. In this talk we will explain open standards (PMML, PFA, ONNX) that have made model exchange and deployment easier and show how they are or can be used in some applications.

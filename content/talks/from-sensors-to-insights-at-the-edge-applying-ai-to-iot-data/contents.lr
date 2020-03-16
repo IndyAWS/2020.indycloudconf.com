@@ -1,0 +1,43 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker:  John Walicki
+---
+bio:
+John Walicki is the CTO for Edge/IoT Advocacy in the Developer Ecosystem
+Group of IBM Cognitive Applications Group. As an IBM Developer Advocate
+with deep expertise in IoT, he inspires developers to build solutions with
+the powerful Watson IoT capabilities, Watson Cognitive APIs and IBM Cloud.
+He helps developers create custom IoT and embedded Linux solutions for
+their industrial and educational use cases. He previously held roles as
+the IBM I/T Workplace of the Future Strategist, where he led the internal
+IBM Open Computing strategy. John was also a manager in the Watson
+Information Services Department at the IBM T.J. Watson Research Center. In
+addition to over 29 years of IBM experience, John holds a BS in Electrical
+Engineering from Lehigh University.
+---
+company: IBM
+---
+twitter:
+---
+website: https://github.com/johnwalicki
+---
+title:  From Sensors to Insights at the Edge: Applying AI to IoT Data
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 3:45pm
+---
+track: breakout_b
+---
+abstract:
+Applying the power of IoT and AI lets organizations gain valuable insights
+from a universe of physical assets, from vehicles to facilities and
+systems.  Learn how to harness IoT data to deliver operational and
+predictive maintenance insights using AI at the Edge. Take a fast-paced
+journey that follows IoT sensor data from generation, edge gateways and
+analytics, encryption, IBM Cloud, Watson IoT, Node-RED processing, cloud
+storage, Watson Studio, Apache Spark analysis in Jupyter notebooks, data
+visualization, machine learning algorithms and deployment of the models
+for edge prediction.
