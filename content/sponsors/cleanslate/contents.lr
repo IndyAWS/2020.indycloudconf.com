@@ -2,14 +2,14 @@ _hidden: yes
 ---
 name: CleanSlate
 ---
-tier: diamond
+tier: ruby
 ---
 is_npo: false
 ---
 website: https://www.cleanslatetg.com/
 ---
 description:
-We are a leading full-service cloud transformation agency seeking to provide Clarity in Technology.  CleanSlate provides dedicated practices and specialized consulting services around Cloud Services, Enterprise Integration, and Salesforce cloud. Our vision provides a clear pathway for success by combining strategy, solutions, and technology expertise.  Our goal is to make it easy for companies to adopt leading edge cloud technology solutions that accelerate business outcomes. 
+We are a leading full-service cloud transformation agency seeking to provide Clarity in Technology.  CleanSlate provides dedicated practices and specialized consulting services around Cloud Services, Enterprise Integration, and Salesforce cloud. Our vision provides a clear pathway for success by combining strategy, solutions, and technology expertise.  Our goal is to make it easy for companies to adopt leading edge cloud technology solutions that accelerate business outcomes.
 
 ---
 logo: cs-full-color.png
