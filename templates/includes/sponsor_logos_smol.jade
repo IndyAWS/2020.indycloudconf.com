@@ -2,7 +2,7 @@
 
 .sponsor-logos-footer
   ol
-    {% for tier in ["organizer", "title", "diamond", "platinum", "ruby", "social sponsor", "community sponsor", "media sponsor", "poll"] %}
+    {% for tier in ["organizer", "title", "diamond", "platinum", "ruby", "digital experience sponsor", "community sponsor", "media sponsor", "poll"] %}
     {% set tier_sponsors = sponsors.filter(F.tier == tier).filter(F.is_npo == false) %}
     {% for sponsor in tier_sponsors %}
     li(class="{{sponsor.tier}}")
