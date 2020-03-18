@@ -2,7 +2,7 @@ _hidden: yes
 ---
 name: Splunk
 ---
-tier: poll
+tier: poll sponsor
 ---
 is_npo: false
 ---

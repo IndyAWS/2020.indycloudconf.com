@@ -24717,7 +24717,7 @@ var ngIncludeDirective = ['$templateRequest', '$anchorScroll', '$animate',
               ctrl.template = response;
 
               // Note: This will also link all children of ng-include that were contained in the original
-              // html. If that content contains controllers, ... they could pollute/change the scope.
+              // html. If that content contains controllers, ... they could poll sponsorute/change the scope.
               // However, using ng-include on an element with additional content does not make sense...
               // Note: We can't remove them in the cloneAttchFn of $transclude as that
               // function is called before linking the content, which would apply child
