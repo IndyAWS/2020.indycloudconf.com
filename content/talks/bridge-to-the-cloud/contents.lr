@@ -4,7 +4,7 @@ _template: talk.jade
 ---
 speaker: Steve Howard
 ---
-bio:
+bio: Steve Howard is a System Engineer with Confluent, the leading provider of Apache Kafka.  His over 20 year career includes work in Big Five Consulting, Insurance, Logistics, Search Engines, and Retail, largely in the data architecture and engineering space.  He is passionate about real time streaming and the ability to change the direction of organizations to be more event driven.
 ---
 company: Confluent
 ---
