@@ -2,9 +2,9 @@ _model: talk
 ---
 _template: talk.jade
 ---
-speaker: Thomas Mitchell
+speaker: Alec Isaacson
 ---
-bio:
+bio: Alec Isaacson is a Solution Architect at New Relic with more than 15 years of experience in enterprise IT. He specializes in application and infrastructure monitoring with a sideline in migrations to cloud and microservices technologies.
 ---
 company: NewRelic
 ---

@@ -1,0 +1,28 @@
+_model: talk
+---
+_template: talk.jade
+---
+speaker:  Patty Bragger-Wilkinson
+---
+bio:
+---
+company: Eli Lilly & Co.
+---
+twitter:
+---
+website: https://www.linkedin.com/in/patty-bragger-wilkinson-2022965/
+---
+title:  From Sensors to Insights at the Edge: Applying AI to IoT Data
+---
+scheduled_date: 2020-03-27
+---
+scheduled_time: 3:45pm
+---
+track: grand_forum
+---
+abstract:
+For many organizations, compute in the cloud is well understood and has become easy to implement.  But for larger organizations with traditional on-prem datacenters, there is an additional challenge that comes with the legacy data that has accumulated over the years.  And while the per/TB cost of storage continues to decrease, the rate of growth is outpacing the decrease in cost.
+
+With the ubiquity of cloud storage solutions available, there is sufficient competition to drive a much lower price point which makes the cloud an attractive option for long term data storage.  It also provides a stepping stone into getting your whole analytics environment prepared for the cloud.
+
+Join me as I walk you through the journey that Lilly’s Research Information and Data Solutions team is taking to move its data to the cloud.  I will talk about the approach we’re taking, the technologies used and the impact we can have with this strategy.
