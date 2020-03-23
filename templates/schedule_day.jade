@@ -19,6 +19,7 @@ block main
         {% endif %}
 
         h3 {{ this.date|dateformat("EEEE, dd MMMM yyyy") }}
+        All talks in Eastern Standard Time (EST)
 
         table.schedule-table
             {% for timeslot in this.program %}
