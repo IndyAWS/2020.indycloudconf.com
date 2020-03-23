@@ -13,7 +13,7 @@ twitter: @calvinhp
 ---
 website: https://sixfeetup.com
 ---
-title: What Cats Can Teach Us About Automating File Recognition
+title: How to Effortlessly Automate File Recognition with AutoML
 ---
 scheduled_date: 2020-03-26
 ---
@@ -22,3 +22,4 @@ scheduled_time: 2:15pm
 track: grand_forum
 ---
 abstract:
+In this talk, Six Feet Up CTO and co-founder Calvin Hendryx-Parker will explain how AutoML can be used for identifying and training Machine Learning models to recognize documents within PDF bundles.
