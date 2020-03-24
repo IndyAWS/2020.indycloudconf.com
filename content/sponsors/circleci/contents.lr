@@ -1,0 +1,18 @@
+_hidden: yes
+---
+name: CircleCI
+---
+tier: platinum
+---
+is_npo: false
+---
+website:
+---
+description:
+CircleCI is the leading continuous integration and delivery platform for software innovation at scale. With intelligent automation and delivery tools, CircleCI is used by the world's best engineering teams to radically reduce the time from idea to execution.
+---
+logo: circleciblack.png
+---
+logo_dark_bg: circleciwhite.png
+---
+signed_on: 2020-03-24
