@@ -17,9 +17,9 @@ title:  Wearables data feed
 ---
 scheduled_date: 2020-03-26
 ---
-scheduled_time: 3:00pm
+scheduled_time: 11:15am
 ---
-track: grand_forum
+track: breakout_b
 ---
 abstract:
 Have you ever thought about just how much health data is stored on your smart phone? Now imagine multiplying that by the number of users on a large mobile app platform. This presentation will go over the details of how LifeOmic, a precision health company headquartered in Indianapolis, built an ingestion pipeline for wearables health data and managed the volume for analytics. The pipeline contains several steps before being ingested into a performant FHIR API, including handling duplicates and managing data aggregation for things like per-15-second metrics.
