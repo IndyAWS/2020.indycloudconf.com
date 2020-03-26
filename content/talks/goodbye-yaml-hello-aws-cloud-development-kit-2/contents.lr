@@ -17,9 +17,9 @@ title:  Goodbye YAML, Hello AWS Cloud Development Kit
 ---
 scheduled_date: 2020-03-26
 ---
-scheduled_time: 3:00pm
+scheduled_time: 
 ---
-track: breakout_b
+track: 
 ---
 abstract:
 Today in AWS we have two native options for modeling our infrastructure as code. The AWS Cloud Development Kit is a relatively new (Summer 2019) option. The AWS CDK allows the use of a familiar programming language for defining infrastructure as code, provisioning services through AWS CloudFormation and creating reusable AWS constructs.
