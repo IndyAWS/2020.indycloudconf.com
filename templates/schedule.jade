@@ -10,14 +10,12 @@ block body_class
     |talks schedule
 
 block main
-     All talks in EDT.
-
     .container
         
         {% set schedule_days = site.query("/schedule") %}
 
         {% if schedule_days %}
-        h1 Conference Schedule
+        h1 Conference Schedule (EDT)
         {% else %}
         h1 Schedule Coming Soon
         {% endif %}
